@@ -38,6 +38,8 @@ class Solution {
             result = Math.max(result, (lcount + rcount + 1));
             lcount = 0;
             rcount = 0;
+            if((nums.length & 1) == 0)
+                if(result >= nums.length/2) return result;
         }
 
         return result;
