@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 ## String
 |  |
