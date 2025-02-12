@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -107,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
