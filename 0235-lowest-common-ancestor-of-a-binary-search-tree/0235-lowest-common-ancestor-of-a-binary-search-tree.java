@@ -10,15 +10,8 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        while (root != null) {
-            if (p.val < root.val && q.val < root.val) {
-                root = root.left; // Both nodes are in the left subtree
-            } else if (p.val > root.val && q.val > root.val) {
-                root = root.right; // Both nodes are in the right subtree
-            } else {
-                return root; // Found LCA (either root is p/q or lies between p and q)
-            }
-        }
-        return null;
+        while (Long.valueOf(root.val - p.val) * (root.val - q.val) > 0)
+            root = p.val < root.val ? root.left : root.right;
+        return root;
     }
 }
