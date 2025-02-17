@@ -10,8 +10,10 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        while (Long.valueOf(root.val - p.val) * (root.val - q.val) > 0)
-            root = p.val < root.val ? root.left : root.right;
+        int min = Math.min(p.val, q.val);
+        int max = Math.max(p.val, q.val);
+        while (root.val < min || root.val > max)
+            root = root.val < min ? root.right : root.left;
         return root;
     }
 }
