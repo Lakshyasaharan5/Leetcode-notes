@@ -20,6 +20,7 @@ class Solution {
         if(root.val == subRoot.val){
             check = isSameTree(root, subRoot);
         }
+        if(check) return true;
         return check || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
