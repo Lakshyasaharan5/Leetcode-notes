@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
