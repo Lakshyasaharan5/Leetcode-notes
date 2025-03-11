@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
