@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0907-koko-eating-bananas) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 ## String
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 ## Bucket Sort
 |  |
 | ------- |
