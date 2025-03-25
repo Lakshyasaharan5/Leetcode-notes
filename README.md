@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
