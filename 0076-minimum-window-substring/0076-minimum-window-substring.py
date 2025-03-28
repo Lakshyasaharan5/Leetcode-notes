@@ -20,8 +20,6 @@ class Solution:
                 find[i] = 1
 
         allDone = len(set(t))
-        print(find)
-        print(allDone)
         result = []
         minWindow = float("inf")
         i, j = 0, 0
