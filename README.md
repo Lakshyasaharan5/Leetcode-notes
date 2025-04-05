@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
