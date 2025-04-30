@@ -1,13 +1,9 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
-        dp = [-1] * (len(nums) + 1)
-
-        def dfs(nums, dp, i):
-            if i >= len(nums):
-                return 0
-            if dp[i] != -1: return dp[i]
-
-            dp[i] = nums[i] + max(dfs(nums, dp, i+2), dfs(nums, dp, i+3))
-            return dp[i]
-
-        return max(dfs(nums, dp, 0), dfs(nums, dp, 1))
+    def rob(self, n: List[int]) -> int:
+        if len(n) == 1: return n[0]
+        if len(n) == 2: return max(n[0], n[1])
+        if len(n) == 3: return max(n[1], n[0]+n[2])
+        n[2] += n[0]
+        for i in range(3, len(n)):
+            n[i] += max(n[i-2], n[i-3])
+        return max(n[-1], n[-2])
