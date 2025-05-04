@@ -9,15 +9,14 @@ class Solution:
         if not root:
             return root
 
-        stack = [root]
+        queue = deque([root])
 
-        while stack:
-            current = stack.pop()
-            current.left, current.right = current.right, current.left
-            if current.right:
-                stack.append(current.right)
-            if current.left:
-                stack.append(current.left)
-        
+        while queue:
+            node = queue.popleft()
+            node.left, node.right = node.right, node.left
+            if node.left:
+                queue.append(node.left)
+            if node.right:
+                queue.append(node.right)
+
         return root
-
