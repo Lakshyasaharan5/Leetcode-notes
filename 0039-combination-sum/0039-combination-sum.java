@@ -14,7 +14,6 @@ class Solution {
             return;
         }
         tmp.add(candidates[idx]);
-        System.out.println(tmp.toString());
         solve(candidates, target, idx, currSum+candidates[idx], tmp, res);        
         tmp.remove(tmp.size()-1);
         solve(candidates, target, idx+1, currSum, tmp, res);
