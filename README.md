@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0377-combination-sum-iv) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
