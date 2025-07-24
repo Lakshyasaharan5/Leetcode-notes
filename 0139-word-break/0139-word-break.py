@@ -1,20 +1,11 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        dp = [False] * (len(s) + 1)
+        dp[-1] = True
         wordSet = set(wordDict)
-        dp = [-1] * len(s)
-        def dfs(s, start):
-            if start >= len(s):
-                return True  
-            if dp[start] != -1:
-                return True if dp[start] == 1 else False          
-            found = False
-            for i in range(start, len(s)):
-                if s[start : i + 1] in wordSet:
-                    if dfs(s, i + 1):
-                        found = True
-                        break
-            
-            dp[start] = 1 if found else 0
-            return found
-
-        return dfs(s, 0)
+        for i in range(len(s) - 1, -1, -1):
+            for j in range(i, len(s)):
+                if s[i : j+1] in wordSet:
+                    if dp[j + 1]:
+                        dp[i] = True
+        return dp[0]
