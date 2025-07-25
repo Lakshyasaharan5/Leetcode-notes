@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
