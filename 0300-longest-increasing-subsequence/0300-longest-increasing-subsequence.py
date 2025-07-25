@@ -2,8 +2,8 @@ class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         dp = [-1] * len(nums)
         def dfs(start):
-            if start >= len(nums):
-                return 0
+            # if start >= len(nums):
+            #     return 0
             if dp[start] != -1:
                 return dp[start]
             curr = nums[start]
