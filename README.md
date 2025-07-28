@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0091-decode-ways) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
