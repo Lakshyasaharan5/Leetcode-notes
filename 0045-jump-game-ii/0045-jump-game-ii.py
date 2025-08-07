@@ -1,17 +1,16 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        dp = {}
-        def dfs(start):  
-            if start in dp:
-                return dp[start]          
-            if start >= len(nums) - 1:
-                return 0
-            if nums[start] == 0:
-                return float('inf')
-            jumps = float('inf')
-            for i in range(1, nums[start] + 1):                
-                jumps = min(jumps, dfs(start + i))
-            dp[start] = jumps + 1
-            return jumps + 1
+        dp = [0] * len(nums)
+        for i in range(len(nums) - 2, -1, -1):
+            if nums[i] == 0:
+                dp[i] = float('inf')
+                continue
+            min_jumps = float('inf')
+            for j in range(1, nums[i] + 1):
+                if (i + j) >= (len(nums) - 1):
+                    min_jumps = 0
+                    break
+                min_jumps = min(min_jumps, dp[i+j])
+            dp[i] = min_jumps + 1
+        return dp[0]
 
-        return dfs(0) 
