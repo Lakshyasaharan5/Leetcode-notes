@@ -1,10 +1,6 @@
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
+        if start < 0 or start >= len(arr) or arr[start] < 0: return False
+        arr[start] = -arr[start]
+        return arr[start] == 0 or self.canReach(arr, start - arr[start]) or self.canReach(arr, start + arr[start])
         
-        def dfs(start):
-            if start < 0 or start >= len(arr) or arr[start] < 0: return False
-            arr[start] *= -1
-            if arr[start] == 0: return True
-            return dfs(start - arr[start]) or dfs(start + arr[start])
-
-        return dfs(start)
