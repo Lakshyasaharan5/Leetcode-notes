@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
+| [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
+| [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 ## Stack
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
+| [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 ## Bucket Sort
 |  |
 | ------- |
