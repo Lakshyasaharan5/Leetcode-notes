@@ -9,7 +9,6 @@ class Solution:
             matrix[top], matrix[bottom] = matrix[bottom], matrix[top]
             top += 1
             bottom -= 1
-        print(matrix)
 
         # Fix diagonal and swap elements on opposite sides with each other
         idx = 1
@@ -20,7 +19,3 @@ class Solution:
                 i += 1
                 j += 1
             idx += 1
-            # 00 01 02 03
-            # 10 11 12 13
-            # 20 21 22 23
-            # 30 31 32 33
