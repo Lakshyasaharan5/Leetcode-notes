@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0338-counting-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
