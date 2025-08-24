@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
