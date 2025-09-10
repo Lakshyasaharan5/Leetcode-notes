@@ -16,6 +16,7 @@ class Solution:
             flag[0] -= 1
             if flag[0] == 0:
                 res[0] = root.val
+                return
             dfs(root.right)
 
         dfs(root)
