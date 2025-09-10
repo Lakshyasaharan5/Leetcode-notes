@@ -4,7 +4,7 @@ class Solution:
         maxheap = []
         for p in points:
             x,y = p[0],p[1]
-            distance = sqrt(x*x + y*y)
+            distance = (x*x + y*y)
             heappush(maxheap, [-distance, p]) 
             if len(maxheap) > k:
                 heappop(maxheap)
