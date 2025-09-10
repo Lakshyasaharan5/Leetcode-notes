@@ -1,55 +1,37 @@
-"""
-Create a class node (node[], isEnd)
-
-a p p l e
-
-insert function:
-    - Iterate each char of word checking if present
-    - If not then create new node and insert
-
-search function:
-    - Iterate each char of word checking if present
-    - Check if we reached the isEnd otherwise return false
-
-startsWith:
-    - Almost same as search, not dependent on isEnd
-"""
 class Node:
     def __init__(self):
-        self.arr = [None] * 26
-        self.isEnd = False
+        self.children = {}
+        self.end = False
 
 class Trie:
 
     def __init__(self):
-        self.root = Node()
+        self.root = Node()    
 
     def insert(self, word: str) -> None:
-        curr = self.root
-        for c in word:
-            idx = ord(c) - ord('a')
-            if curr.arr[idx] is None:
-               curr.arr[idx] = Node()
-            curr = curr.arr[idx]
-        curr.isEnd = True
+        node = self.root
+        for ch in word:
+            if ch not in node.children:
+                node.children[ch] = Node()
+            node = node.children[ch]
+        node.end = True                
 
     def search(self, word: str) -> bool:
-        curr = self.root
-        for c in word:
-            idx = ord(c) - ord('a')
-            if curr.arr[idx] is None:
+        node = self.root
+        for ch in word:
+            if ch not in node.children:
                 return False
-            curr = curr.arr[idx]
-        return True if curr.isEnd else False
-
+            node = node.children[ch]
+        return node.end
+            
     def startsWith(self, prefix: str) -> bool:
-        curr = self.root
-        for c in prefix:
-            idx = ord(c) - ord('a')
-            if curr.arr[idx] is None:
+        node = self.root
+        for ch in prefix:
+            print(node.children)
+            if ch not in node.children:
                 return False
-            curr = curr.arr[idx]
-        return True 
+            node = node.children[ch]
+        return True    
 
 
 # Your Trie object will be instantiated and called as such:
