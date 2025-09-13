@@ -1,18 +1,33 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
-        for(int i=0; i<strs.length; i++){
-            char[] c = strs[i].toCharArray();
-            Arrays.sort(c);
-            String sorted = new String(c);
-            if(!map.containsKey(sorted))
-                map.put(sorted, new ArrayList<String>());                            
-            map.get(sorted).add(strs[i]);
+        // iterate over strs
+        // for each string will encode into 26 char hash
+        // put that into hashmap
+        // iterate over hashmap to create final result
+        HashMap<String, List<String>> map = new HashMap<>();
+        for (String s : strs) {
+            String hash = encode(s);
+            if (!map.containsKey(hash)){
+                map.put(hash, new ArrayList<String>());
+            }            
+            map.get(hash).add(s);
         }
         List<List<String>> result = new ArrayList<>();
-        for(Map.Entry<String, List<String>> entry : map.entrySet()){
-            result.add(entry.getValue());
+        for(List<String> list : map.values()){
+            result.add(list);
         }
         return result;
+    }
+
+    String encode(String s) {
+        int[] freq = new int[26];
+        for (char c : s.toCharArray()) {
+            freq[c - 'a']++;
+        }
+        StringBuilder sb = new StringBuilder();
+        for (int f : freq){
+            sb.append(f).append("#");
+        }
+        return sb.toString();
     }
 }
