@@ -8,11 +8,11 @@ class Solution {
         for (String s : strs) {
             String hash = encode(s);
             if (!map.containsKey(hash)){
-                map.put(hash, new ArrayList<String>());
+                map.put(hash, new LinkedList<String>());
             }            
             map.get(hash).add(s);
         }
-        List<List<String>> result = new ArrayList<>();
+        List<List<String>> result = new LinkedList<>();
         for(List<String> list : map.values()){
             result.add(list);
         }
