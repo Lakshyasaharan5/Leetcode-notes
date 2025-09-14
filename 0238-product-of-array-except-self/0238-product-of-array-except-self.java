@@ -1,24 +1,20 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        // [1,2,3,4]
-        //            post = 4
-        // [1,2,6,24]
-        //      i 
-        // [24,12,8,6]
-
+        // create a postfix product array 
+        // keep a prefix product variable
+        // traverse nums and keep updating the postfix array as prefix * postfix[i+1]
         int n = nums.length;
-        int[] result = new int[n];
-        result[0] = nums[0];
-        for(int i=1; i<n; i++){
-            result[i] = nums[i] * result[i-1];
-        }    
-        
-        int post = 1;
-        for(int i=n-1; i>0; i--){
-            result[i] = result[i-1] * post;
-            post *= nums[i];
+        int[] res = new int[n];
+        res[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--){            
+            res[i] = res[i + 1] * nums[i];
         }
-        result[0] = post;
-        return result;
+        int prefix = 1;
+        for (int i = 0; i < n - 1; i++){
+            res[i] = res[i + 1] * prefix;
+            prefix *= nums[i];
+        }
+        res[n - 1] = prefix;
+        return res;
     }
 }
