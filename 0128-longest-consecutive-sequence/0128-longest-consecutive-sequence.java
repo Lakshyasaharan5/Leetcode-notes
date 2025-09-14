@@ -1,49 +1,18 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if(nums.length == 0) return 0;
-        
-        int result = 1;
-        Set<Integer> helper = new HashSet<>();
-        Set<Integer> seen = new HashSet<>();
-        
+        HashSet<Integer> seen = new HashSet<>();        
         for(int n : nums){
-            helper.add(n);
-        }
-
-        int lcount = 0, rcount = 0;
-        for(int n : nums){
-            if(seen.contains(n)) continue;
             seen.add(n);
-            // check left
-            int l = n-1;
-            while(true){                
-                if(!helper.contains(l)) 
-                    break;
-                lcount++;
-                seen.add(l);
-                l--;
-            }
-            
-            // check right
-            int r = n+1;
-            while(true){                
-                if(!helper.contains(r)) 
-                    break;
-                rcount++;
-                seen.add(r);
-                r++;
-            }
-
-            //update our result count
-            result = Math.max(result, (lcount + rcount + 1));
-            lcount = 0;
-            rcount = 0;
-
-            // if the count is already equals to the half of the array length then why check rest.
-            if((nums.length & 1) == 0)
-                if(result >= nums.length/2) return result;
         }
-
-        return result;
+        int res = 0;
+        for(int n : seen){
+            if (seen.contains(n - 1)) continue;
+            int streak = n;
+            while (seen.contains(streak + 1)){
+                streak++;
+            }
+            res = Math.max(res, streak - n + 1);
+        }
+        return res;
     }
 }
