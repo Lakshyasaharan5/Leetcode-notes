@@ -12,6 +12,7 @@ class Solution {
                 streak++;
             }
             res = Math.max(res, streak - n + 1);
+            if (res >= seen.size()) return res;
         }
         return res;
     }
