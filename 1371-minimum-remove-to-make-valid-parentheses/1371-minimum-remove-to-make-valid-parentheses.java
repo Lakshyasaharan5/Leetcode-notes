@@ -1,27 +1,37 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        char[] temp = new char[s.length()];
-        Stack<Integer> index = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
+        int n = s.length();
+        boolean[] remove = new boolean[n]; // flags for chars to remove
+        int[] stack = new int[n];          // manual stack for '(' indices
+        int top = -1;
+
+        // First pass: mark invalid ')' and track '('
+        for (int i = 0; i < n; i++) {
             char c = s.charAt(i);
-            temp[i] = c;
-            if (c == ')') {
-                if (index.size() > 0 && s.charAt(index.peek()) == '(') {
-                    temp[index.pop()] = '(';                    
+            if (c == '(') {
+                stack[++top] = i; // push index of '('
+            } else if (c == ')') {
+                if (top >= 0) {
+                    top--; // match found, pop
                 } else {
-                    index.push(i);
-                    temp[i] = '*';
+                    remove[i] = true; // unmatched ')'
                 }
-            } else if (c == '(') {
-                index.push(i);
-                temp[i] = '*';
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < temp.length; i++) {
-            if (temp[i] != '*')
-                sb.append(temp[i]);
+
+        // Second pass: any '(' left in stack are unmatched
+        while (top >= 0) {
+            remove[stack[top--]] = true;
         }
+
+        // Build final string
+        StringBuilder sb = new StringBuilder(n);
+        for (int i = 0; i < n; i++) {
+            if (!remove[i]) {
+                sb.append(s.charAt(i));
+            }
+        }
+
         return sb.toString();
     }
 }
