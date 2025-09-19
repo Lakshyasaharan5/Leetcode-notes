@@ -6,7 +6,7 @@ class Solution {
         bracketPairs.put('}', '{');
     }
     public boolean isValid(String s) {        
-        Stack<Character> bracketStack = new Stack<>();
+        Deque<Character> bracketStack = new ArrayDeque<>();
         for (int i = 0; i < s.length(); i++) {
             char bracket = s.charAt(i);
             if (bracketPairs.containsKey(bracket)) {
