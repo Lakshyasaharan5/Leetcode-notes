@@ -1,38 +1,20 @@
 class Solution {
-    public int largestRectangleArea(int[] height) {
-        int n = height.length;
-        Stack<Integer> st = new Stack<>();                
-        
-        // monotonic increase stack by going left to right
-        int[] next_smaller_right = new int[n]; 
-        for(int i=0; i<n; i++){
-            while(!st.empty() && height[st.peek()] > height[i]){
-                next_smaller_right[st.pop()] = i;
+    public int largestRectangleArea(int[] heights) {
+        int[][] stack = new int[heights.length][2];
+        int top = -1, res = 0;
+        for (int i = 0; i < heights.length; i++) {
+            int[] curr = new int[] { i, i };
+            while (top >= 0 && heights[stack[top][1]] > heights[i]) {
+                int[] popped = stack[top--];
+                res = Math.max(res, (i - popped[0]) * heights[popped[1]]);
+                curr[0] = popped[0];
             }
-            st.push(i);
+            stack[++top] = curr;
         }
-        while(!st.empty()){
-            next_smaller_right[st.pop()] = n;
+        while (top >= 0) {
+            int[] popped = stack[top--];
+            res = Math.max(res, (heights.length - popped[0]) * heights[popped[1]]);
         }
-
-        // monotonic increase stack by going right to left
-        int[] next_smaller_left = new int[n]; 
-        for(int i=n-1; i>=0; i--){
-            while(!st.empty() && height[st.peek()] > height[i]){
-                next_smaller_left[st.pop()] = i;
-            }
-            st.push(i);
-        }
-        while(!st.empty()){
-            next_smaller_left[st.pop()] = -1;
-        }
-
-        int result = Integer.MIN_VALUE;
-        for(int i=0; i<n; i++){
-            int area = (next_smaller_right[i] - next_smaller_left[i] - 1) * height[i];
-            result = Math.max(result, area);
-        }
-
-        return result;
+        return res;
     }
 }
