@@ -1,20 +1,29 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int[][] stack = new int[heights.length][2];
+        int n = heights.length;
+        int[] lefts = new int[n];   // store left boundary
+        int[] idxs  = new int[n];   // store indices (or heights reference)
         int top = -1, res = 0;
-        for (int i = 0; i < heights.length; i++) {
-            int[] curr = new int[] { i, i };
-            while (top >= 0 && heights[stack[top][1]] > heights[i]) {
-                int[] popped = stack[top--];
-                res = Math.max(res, (i - popped[0]) * heights[popped[1]]);
-                curr[0] = popped[0];
+
+        for (int i = 0; i < n; i++) {
+            int left = i;
+            while (top >= 0 && heights[idxs[top]] > heights[i]) {
+                int idx = idxs[top];
+                int start = lefts[top--];
+                res = Math.max(res, (i - start) * heights[idx]);
+                left = start; // inherit the left boundary
             }
-            stack[++top] = curr;
+            ++top;
+            lefts[top] = left;
+            idxs[top]  = i;
         }
+
         while (top >= 0) {
-            int[] popped = stack[top--];
-            res = Math.max(res, (heights.length - popped[0]) * heights[popped[1]]);
+            int idx = idxs[top];
+            int start = lefts[top--];
+            res = Math.max(res, (n - start) * heights[idx]);
         }
+
         return res;
     }
 }
