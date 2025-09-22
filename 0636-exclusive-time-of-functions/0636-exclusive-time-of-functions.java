@@ -5,18 +5,18 @@ class Solution {
         int[] startStack = new int[len];
         int[] childStack = new int[len];
         int top = -1;
-
         int[] result = new int[n];
 
         for (String log : logs) {
+            // manual parse: id:type:time
             int first = log.indexOf(':');
             int second = log.indexOf(':', first + 1);
 
-            int id = Integer.parseInt(log.substring(0, first));
-            String type = log.substring(first + 1, second);
-            int time = Integer.parseInt(log.substring(second + 1));
+            int id = fastParse(log, 0, first);
+            boolean isStart = log.charAt(first + 1) == 's'; // "start"
+            int time = fastParse(log, second + 1, log.length());
 
-            if (type.equals("start")) {
+            if (isStart) {
                 ++top;
                 idStack[top] = id;
                 startStack[top] = time;
@@ -29,5 +29,13 @@ class Solution {
             }
         }
         return result;
+    }
+
+    private int fastParse(String s, int start, int end) {
+        int val = 0;
+        for (int i = start; i < end; i++) {
+            val = val * 10 + (s.charAt(i) - '0');
+        }
+        return val;
     }
 }
