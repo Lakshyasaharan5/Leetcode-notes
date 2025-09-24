@@ -19,7 +19,7 @@ class Solution {
             }
         }        
         int missing = arr[l] - (l + 1);
-        return arr[l] + (k - missing);
+        return k + l + 1;
     }
 }
 
