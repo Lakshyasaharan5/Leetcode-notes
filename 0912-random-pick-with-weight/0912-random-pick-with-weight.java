@@ -10,13 +10,6 @@ class Solution {
     
     public int pickIndex() {
         int l = 0, r = prefix.length - 1;
-        //  
-        // [2, 1, 3]
-        //  0. 1. 2
-        // [2, 3, 6]
-        //  l
-        //.    m
-        //        r
         Random rand = new Random();
         int target = rand.nextInt(prefix[prefix.length - 1]) + 1;
         while (l < r) {
