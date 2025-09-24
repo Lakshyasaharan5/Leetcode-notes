@@ -1,5 +1,6 @@
 class Solution {
     int[] prefix;
+    Random rand = new Random();
     public Solution(int[] w) {
         prefix = new int[w.length];
         prefix[0] = w[0];
@@ -9,8 +10,7 @@ class Solution {
     }
     
     public int pickIndex() {
-        int l = 0, r = prefix.length - 1;
-        Random rand = new Random();
+        int l = 0, r = prefix.length - 1;        
         int target = rand.nextInt(prefix[prefix.length - 1]) + 1;
         while (l < r) {
             int m = (r - l) / 2 + l;
