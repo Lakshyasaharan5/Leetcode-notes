@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0338-counting-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0907-koko-eating-bananas) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
