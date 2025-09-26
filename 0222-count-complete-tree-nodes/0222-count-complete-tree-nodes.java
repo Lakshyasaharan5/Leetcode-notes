@@ -16,21 +16,24 @@
 class Solution {
     public int countNodes(TreeNode root) {
         int count = 0;
-        while (root != null ) {
-            int left = height(root.left);
-            int right = height(root.right);
-            if (left == right) {
-                count += Math.pow(2,left);
+        while (root != null) {
+            int leftHeight = height(root.left);
+            int rightHeight = height(root.right);
+            
+            if (leftHeight == rightHeight) {
+                // left subtree is perfect
+                count += (1 << leftHeight); // root + all left nodes
                 root = root.right;
             } else {
-                count += Math.pow(2, right);
+                // right subtree is perfect
+                count += (1 << rightHeight); // root + all right nodes
                 root = root.left;
             }
         }
         return count;
     }
 
-    int height (TreeNode node) {
+    private int height(TreeNode node) {
         int h = 0;
         while (node != null) {
             h++;
