@@ -15,17 +15,21 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) return 0;
-        int curr = root.val;
-        int left = 0, right = 0;
-        if (curr > low)
-            left = rangeSumBST(root.left, low, high);        
-        if (curr < high)
-            right = rangeSumBST(root.right, low, high);
-        if (low <= curr && curr <= high) {
-            return curr + left + right;
-        } else {
-            return left + right;
+        int sum = 0;
+        Deque<TreeNode> stack = new ArrayDeque<>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.pop();
+            if (node == null)
+                continue;
+            if (node.val >= low && node.val <= high)
+                sum += node.val;
+            if (node.val > low && node.left != null)
+                stack.push(node.left);
+            if (node.val < high && node.right != null)
+                stack.push(node.right);
         }
+        return sum;
     }
+
 }
