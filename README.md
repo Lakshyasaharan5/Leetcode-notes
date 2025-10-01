@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0121-best-time-to-buy-and-sell-stock) |
