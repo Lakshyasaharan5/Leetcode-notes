@@ -4,7 +4,7 @@ class Solution {
         //  2 2 4 3 3 2  1   1
         int[] dp = new int[nums.length];
         int res = 1;
-        Arrays.fill(dp, 1);        
+        dp[nums.length - 1] = 1;        
         for (int i = nums.length - 2; i>=0; i--) {
             int curr = 0;
             for (int j = i+1; j < nums.length; j++) {
