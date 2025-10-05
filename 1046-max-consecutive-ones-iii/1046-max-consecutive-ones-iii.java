@@ -3,9 +3,9 @@ class Solution {
         // 0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1
         //     l
         //                   r
-        if (k == 0) {
-            return maxConsecutiveOnes(nums);
-        }
+        // if (k == 0) {
+        //     return maxConsecutiveOnes(nums);
+        // }
         int l = 0, r = 0;
         int res = 0;
         while (r < nums.length) {
