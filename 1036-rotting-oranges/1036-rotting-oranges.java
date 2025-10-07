@@ -1,45 +1,39 @@
 class Solution {
-    private static final int[][] DIRECTIONS = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
-
+    int[][] DIRECTIONS = new int[][]{{1,0}, {0,-1}, {-1,0}, {0,1}};
     public int orangesRotting(int[][] grid) {
-        Queue<int[]> q = new LinkedList<>();
-
+        Queue<int[]> que = new LinkedList<>();
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {
                 if (grid[i][j] == 2) {
-                    q.add(new int[] { i, j });
+                    que.add(new int[]{i,j});
                 }
             }
         }
-
-        int minutes = -1;
-        while (q.size() > 0) {            
-            minutes++;
-            int currSize = q.size();
-            for (int i = 0; i < currSize; i++) {
-                int[] curr = q.poll();
-                for (int[] dir : DIRECTIONS) {
-                    int nextI = curr[0] + dir[0];
-                    int nextJ = curr[1] + dir[1];
-                    if (nextI >= 0 && nextJ >= 0 &&
-                            nextI < grid.length && nextJ < grid[0].length &&
-                            grid[nextI][nextJ] == 1) {
-                        grid[nextI][nextJ] = 2;
-                        q.add(new int[] { nextI, nextJ });
-                    }
-                }
-            }  
-                      
-        }
-
+        int min = bfs(grid, que);
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {
-                if (grid[i][j] == 1) {
-                    return -1;
-                }
+                if (grid[i][j] == 1) return -1;
             }
         }
+        return min;
+    }
 
-        return minutes == -1 ? 0 : minutes;
+    private int bfs(int[][] grid, Queue<int[]> que) {
+        int min = 0;
+        while (que.size() > 0) {     
+            int currSize = que.size();       
+            for (int i = 0; i < currSize; i++) {
+                int[] orange = que.remove();
+                for (int[] dir : DIRECTIONS) {
+                    int r = orange[0] + dir[0];
+                    int c = orange[1] + dir[1];
+                    if (r < 0 || c < 0 || r >= grid.length || c >= grid[0].length || grid[r][c] != 1) continue;
+                    grid[r][c] = 2;
+                    que.add(new int[]{r,c});            
+                }
+            }   
+            if (que.size() > 0) min++;         
+        }
+        return min;
     }
 }
