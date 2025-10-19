@@ -24,11 +24,12 @@ class Solution {
     private void dfs(TreeNode root, int currNumber) {
         if (root == null) return;
         currNumber = currNumber * 10 + root.val;
+        
+        dfs(root.left, currNumber);
         if (root.left == null && root.right == null) {
             totalSum += currNumber;
             return;
         }
-        dfs(root.left, currNumber);
         dfs(root.right, currNumber);
     }
 }
