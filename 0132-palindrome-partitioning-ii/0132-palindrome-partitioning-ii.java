@@ -1,29 +1,31 @@
 class Solution {
     public int minCut(String s) {
-        int[] dp = new int[s.length()];
-        Arrays.fill(dp, -1);
-        return dfs(s, 0, dp);
-    }
-
-    private int dfs(String s, int start, int[] dp) {
-        if (start >= s.length()) return -1;
-        if (dp[start] != -1) return dp[start];
-        int currMin = 2001;
-        for (int i = start; i < s.length(); i++) {
-            String curr = s.substring(start, i + 1);
-            if (!isPalindrome(curr)) continue;
-            currMin = Math.min(currMin, dfs(s, i + 1, dp));
+        int n = s.length();
+        boolean[][] isPalindrome = new boolean[n][n];
+        int[] minCuts = new int[n];
+        // Step 1
+        for (int end = 0; end < n; end++) {
+            for (int start = 0; start <= end; start++) {
+                if (s.charAt(start) == s.charAt(end) &&
+                    (end - start <= 2 || isPalindrome[start + 1][end - 1])) {
+                    isPalindrome[start][end] = true;
+                }
+            }
         }
-        return dp[start] = currMin + 1;
-    }
-
-    private boolean isPalindrome(String s){
-        int l=0, r=s.length()-1;
-        while(l<r){
-            if(s.charAt(l)!=s.charAt(r))return false;
-            l++;
-            r--;
+        // Step 2:
+        for (int i = 0; i < n; i++) {
+            if (isPalindrome[0][i]) {
+                minCuts[i] = 0; // the whole substring is a palindrome
+            } else {
+                int min = i;
+                for (int j = 0; j < i; j++) {
+                    if (isPalindrome[j + 1][i]) {
+                        min = Math.min(min, minCuts[j] + 1);
+                    }
+                }
+                minCuts[i] = min;
+            }
         }
-        return true;
-    }    
+        return minCuts[n - 1];
+    }
 }
