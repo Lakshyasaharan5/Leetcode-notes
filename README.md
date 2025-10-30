@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
+| [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 ## Bucket Sort
 |  |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 ## Greedy
 |  |
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
