@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
