@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
@@ -580,4 +582,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
