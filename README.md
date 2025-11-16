@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
