@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
@@ -584,10 +586,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
