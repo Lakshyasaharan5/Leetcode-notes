@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0072-edit-distance) |
