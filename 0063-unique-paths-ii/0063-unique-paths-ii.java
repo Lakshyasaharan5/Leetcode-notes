@@ -1,6 +1,6 @@
 class Solution {
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        int[][] dp = new int[101][101];
+    int[][] dp = new int[101][101];
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) {        
         for (int i = 0; i < 101; i++) {
             for (int j = 0; j < 101; j++) {
                 dp[i][j] = -1;
