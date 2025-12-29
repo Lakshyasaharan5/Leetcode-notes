@@ -1,18 +1,16 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        // [-2,1,-3,4,-1,2,1,-5,4]
-        //   i
-        //   -5 -2 
-        int res = nums[0];
-        int curr = 0;
+        // -3 -2 -1 -4 4 -2 6
+        // add
+        // max sum
+        // set to zero if neg
+        int maxSum = nums[0];
+        int currSum = 0;
         for (int n : nums) {
-            curr += n;
-            if (curr < 0) {
-                res = Math.max(res, n);    
-                curr = 0;
-            } else
-                res = Math.max(res, curr);
+            currSum += n;
+            maxSum = Math.max(currSum, maxSum);
+            if (currSum < 0) currSum = 0;
         }
-        return res;
+        return maxSum;
     }
 }
