@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
