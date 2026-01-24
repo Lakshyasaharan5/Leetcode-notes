@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0219-contains-duplicate-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0208-implement-trie-prefix-tree) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -653,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
