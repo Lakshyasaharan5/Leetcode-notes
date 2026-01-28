@@ -1,30 +1,35 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+    public ListNode mergeKLists(ListNode[] lists) {                  
         if (lists.length == 0) return null;
-        ListNode head = new ListNode(-1);
-        ListNode temp = head;
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
-        for (ListNode node : lists) {
-            if (node != null)
-                pq.offer(node);
-        }
-        while (!pq.isEmpty()) {
-            ListNode top = pq.poll();
-            if (top.next != null) pq.offer(top.next);
-            top.next = null;
-            temp.next = top;
+        return mergeSort(lists, 0, lists.length - 1);
+    }    
+
+    private ListNode mergeSort(ListNode[] lists, int l, int r) {
+        if (l == r) return lists[l];
+        
+        int m = (l + r) / 2;
+        ListNode left = mergeSort(lists, l, m);
+        ListNode right = mergeSort(lists, m + 1, r);        
+
+        if (left == null) return right;
+        if (right == null) return left;
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        while (left != null && right != null) {
+            if (left.val < right.val) {
+                temp.next = left;
+                left = left.next;
+            } else {
+                temp.next = right;
+                right = right.next;
+            }
+            temp.next.next = null;
             temp = temp.next;
         }
-        return head.next;
-    }
+
+        if (left != null) temp.next = left;
+        if (right != null) temp.next = right;
+
+        return dummy.next;
+    } 
 }
