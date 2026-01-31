@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -655,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
