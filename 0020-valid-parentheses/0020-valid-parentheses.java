@@ -1,25 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        if(s.length()%2!=0) return false;
-        char[] ch=s.toCharArray();
-        char[] stack=new char[s.length()];
-        int top=0;
-        for(int i=0;i<ch.length;i++){
-            switch(ch[i]){
-                case '(','{','[':
-                    stack[top++]=ch[i];
-                    break;
-                case ')':
-                    if(top==0||stack[--top]!='(') return false;
-                    break;
-                case '}':
-                    if(top==0||stack[--top]!='{') return false;
-                    break;
-                case ']':
-                    if(top==0||stack[--top]!='[') return false;
-                    break;
+        HashMap<Character, Character> bracketsMap = new HashMap<>();
+        bracketsMap.put(')', '(');
+        bracketsMap.put(']', '[');
+        bracketsMap.put('}', '{');
+        Stack<Character> st = new Stack<>();
+        st.push(s.charAt(0));
+        for (int i = 1; i < s.length(); i++) {
+            char b = s.charAt(i);
+            if (bracketsMap.containsKey(b)) {
+                if (st.isEmpty() || st.peek() != bracketsMap.get(b)) return false;
+                st.pop();
+            } else {
+                st.push(b);
             }
         }
-        return top==0;
+        return st.isEmpty();
     }
 }
