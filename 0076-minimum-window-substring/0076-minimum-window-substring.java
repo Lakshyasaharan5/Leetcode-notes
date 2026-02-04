@@ -16,7 +16,6 @@ class Solution {
                 freq.put(ch, freq.get(ch) - 1);
                 if (freq.get(ch) >= 0) cnt--;
             }
-            System.out.println("l" + l + "r" + r + "cnt" + cnt);
             while (cnt == 0) {                
                 if (r - l + 1 < shortest) {
                     shortest = r - l + 1;
