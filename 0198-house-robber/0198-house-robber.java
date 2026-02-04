@@ -1,13 +1,13 @@
 class Solution {
-    public int rob(int[] nums) {
-        int n = nums.length;
-        if(n==1) return nums[0];
-        if(n==2) return Math.max(nums[0], nums[1]);
-        if(n==3) return Math.max(nums[0]+nums[2], nums[1]);
-        nums[n-3] += nums[n-1];
-        for(int i=n-4; i>=0; i--){
-            nums[i] += Math.max(nums[i+2], nums[i+3]);
-        }
-        return Math.max(nums[0], nums[1]);
+    public int rob(int[] nums) {  
+        int[] dp = new int[401];
+        Arrays.fill(dp, -1);             
+        return Math.max(dfs(nums, 0, dp), dfs(nums, 1, dp));
+    }
+
+    private int dfs(int[] nums, int i, int[] dp) {
+        if (i >= nums.length) return 0;
+        if (dp[i] != -1) return dp[i];
+        return dp[i] = Math.max(dfs(nums, i + 2, dp), dfs(nums, i + 3, dp)) + nums[i];
     }
 }
