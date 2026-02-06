@@ -1,24 +1,28 @@
 class Solution {
+    List<String> result;
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        solve(n, n, "", res);
-        return res;
+        result = new ArrayList<>();
+        List<Character> curr = new ArrayList<>();
+        curr.add('(');
+        dfs(n - 1, n, curr);
+        return result;
     }
 
-    public void solve(int open, int closed, String output, List<String> res){
-        if(open==0 && closed==0){
-            res.add(output);
-            return;
+    private void dfs(int open, int closed, List<Character> curr) {
+        if (closed < open || open < 0) return;
+        if (closed == 0 && open == 0) {
+            StringBuilder sb = new StringBuilder();
+            for (char ch : curr) {
+                sb.append(ch);
+            }
+            result.add(sb.toString());
         }
-        if(open<0 || closed<0){
-            return;
-        }
+        curr.add('(');
+        dfs(open - 1, closed, curr);
+        curr.remove(curr.size() - 1);
 
-        if(open == closed){
-            solve(open-1, closed, output+"(", res);
-        }else{
-            solve(open-1, closed, output+"(", res);
-            solve(open, closed-1, output+")", res);
-        }
+        curr.add(')');
+        dfs(open, closed - 1, curr);
+        curr.remove(curr.size() - 1);
     }
 }
