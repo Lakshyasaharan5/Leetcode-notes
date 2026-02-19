@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0076-minimum-window-substring) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
