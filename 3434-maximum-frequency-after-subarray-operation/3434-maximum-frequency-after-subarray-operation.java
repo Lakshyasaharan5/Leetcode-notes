@@ -1,21 +1,21 @@
 class Solution {
     public int maxFrequency(int[] nums, int k) {
-        int kFreq = 0;
+        int freqK = 0;
         for (int n : nums) {
-            if (n == k) kFreq++;
+            if (n == k) freqK++;
         }
-        int maxSubstitute = 0;
+        int res = 0;
         for (int i = 1; i <= 50; i++) {
-            if (i == k) continue;
-            int curr = 0, maxCurr = 0;
+            //kadane for i
+            int maxFreq = 0, curr = 0;
             for (int n : nums) {
                 if (n == i) curr++;
                 if (n == k) curr--;
                 if (curr < 0) curr = 0;
-                maxCurr = Math.max(maxCurr, curr);
+                maxFreq = Math.max(maxFreq, curr);
             }
-            maxSubstitute = Math.max(maxSubstitute, maxCurr);
+            res = Math.max(res, maxFreq + freqK);
         }
-        return kFreq + maxSubstitute;
+        return res;
     }
 }
