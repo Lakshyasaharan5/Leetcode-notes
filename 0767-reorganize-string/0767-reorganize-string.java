@@ -1,32 +1,56 @@
-class Pair {
-    char ch;
-    int freq;
-    Pair (char ch, int freq) {
-        this.ch = ch;
-        this.freq = freq;
-    }
-}
-
 class Solution {
+
+    static class Pair {
+        char ch;
+        int freq;
+
+        Pair(char ch, int freq) {
+            this.ch = ch;
+            this.freq = freq;
+        }
+    }
+
     public String reorganizeString(String s) {
-        HashMap<Character, Integer> freqMap = new HashMap<>();
-        for (char ch : s.toCharArray()) {
-            freqMap.put(ch, freqMap.getOrDefault(ch, 0) + 1);
+
+        // Step 1: Count frequency
+        HashMap<Character, Integer> map = new HashMap<>();
+        for (char c : s.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> b.freq - a.freq);
-        for (Map.Entry<Character, Integer> entry : freqMap.entrySet()) {
-            pq.offer(new Pair(entry.getKey(), entry.getValue()));
+
+        // Step 2: Max heap based on frequency
+        PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (a, b) -> b.freq - a.freq
+        );
+
+        for (char c : map.keySet()) {
+            pq.offer(new Pair(c, map.get(c)));
         }
+
         StringBuilder sb = new StringBuilder();
-        Pair prev = null;
-        while (!pq.isEmpty()) {
-            Pair curr = pq.poll();            
-            sb.append(curr.ch);
-            curr.freq--;
-            if (prev != null && prev.freq > 0) pq.offer(prev);
-            prev = curr;
+
+        // Step 3: Process two at a time
+        while (pq.size() >= 2) {
+            Pair first = pq.poll();
+            Pair second = pq.poll();
+
+            sb.append(first.ch);
+            sb.append(second.ch);
+
+            first.freq--;
+            second.freq--;
+
+            if (first.freq > 0) pq.offer(first);
+            if (second.freq > 0) pq.offer(second);
         }
-        if (sb.length() < s.length()) return "";
-        return sb.toString();    
+
+        // Step 4: Handle last remaining character
+        if (!pq.isEmpty()) {
+            Pair last = pq.poll();
+            if (last.freq > 1) return "";
+            sb.append(last.ch);
+        }
+
+        return sb.toString();
     }
 }
