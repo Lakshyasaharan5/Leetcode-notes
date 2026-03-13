@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
