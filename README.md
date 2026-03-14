@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
+| [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0992-subarrays-with-k-different-integers) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0412-fizz-buzz) |
+| [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2181-merge-nodes-in-between-zeros) |
