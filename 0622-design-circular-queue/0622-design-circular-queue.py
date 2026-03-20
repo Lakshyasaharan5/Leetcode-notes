@@ -33,7 +33,7 @@ class MyCircularQueue:
     def Rear(self) -> int:
         if self.isEmpty():
             return -1
-        return self.arr[self.rear - 1]
+        return self.arr[(self.rear - 1 + self.capacity) % self.capacity]
 
     def isEmpty(self) -> bool:
         return self.size == 0
