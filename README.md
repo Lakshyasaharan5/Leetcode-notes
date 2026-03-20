@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0636-exclusive-time-of-functions) |
 | [0648-replace-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
