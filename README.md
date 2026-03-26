@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
