@@ -1,12 +1,14 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        dp = {}
-        dp[0] = 0
-        dp[1] = 1
-        dp[2] = 1
-        def dfs(n):
-            if n in dp:
-                return dp[n]
-            dp[n] = dfs(n - 1) + dfs(n - 2) + dfs(n - 3)
-            return dp[n]
-        return dfs(n)
+        if n < 2:
+            return n
+        if n == 2:
+            return 1
+        a, b, c = 0, 1, 1
+        curr = 0
+        for _ in range(3, n + 1):
+            curr = a + b + c
+            a = b
+            b = c
+            c = curr
+        return curr
