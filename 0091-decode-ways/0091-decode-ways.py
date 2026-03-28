@@ -11,6 +11,5 @@ class Solution:
                 continue
             dp[i] = dp[i + 1]
             if int(s[i:i+2]) <= 26:
-                print(int(s[i:i+2]))
                 dp[i] += dp[i + 2]
         return dp[0]
