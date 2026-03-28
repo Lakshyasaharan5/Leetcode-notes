@@ -11,27 +11,25 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
-
         gmap = {}
-        res = Node(node.val)
-        gmap[node.val] = res
-        def bfs(node):
-            visited = []
-            q = deque([node])
-            visited.append(node)
-            while q:
-                curr = q.popleft()                                
-                curr_clone = gmap[curr.val]
-                for n in curr.neighbors:
-                    if n in visited:
-                        curr_clone.neighbors.append(gmap[n.val])
-                        continue
-                    new_node = Node(n.val)
-                    curr_clone.neighbors.append(new_node)
-                    gmap[new_node.val] = new_node
-                    visited.append(n)
-                    q.append(n)
 
+        # bfs and fill gmap
+        q = deque()
+        visited = set()
+        q.append(node)
+        visited.add(node)
+        while q:
+            front = q.popleft()
+            gmap[front] = Node(front.val, [])
+            for nb in front.neighbors:
+                if nb not in visited:
+                    q.append(nb)
+                    visited.add(nb)
         
-        bfs(node)
-        return res
+        # make adjacency list from gmap
+        for original, new in gmap.items():
+            for nb in original.neighbors:
+                new.neighbors.append(gmap[nb])
+
+        return gmap[node]
+        
