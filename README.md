@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 ## Union Find
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
