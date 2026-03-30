@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 ## Binary Tree
 |  |
@@ -845,12 +847,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0210-course-schedule-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Ordered Set
 |  |
