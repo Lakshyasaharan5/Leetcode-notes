@@ -9,22 +9,23 @@ class Solution {
             graph.get(u).add(v);
             graph.get(v).add(u);
         }
-        Queue<Integer> queue = new LinkedList<>();
         Set<Integer> visited = new HashSet<>();
-        queue.offer(source);
         visited.add(source);
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            if (destination == node) {
-                return true;
-            }
-            for (int neighbor : graph.get(node)) {
-                if (!visited.contains(neighbor)){                
-                    queue.offer(neighbor);
-                    visited.add(neighbor);
+        return dfs(graph, source, destination, visited);
+    }
+
+    private boolean dfs(Map<Integer, List<Integer>> graph, int src, int dest, Set<Integer> visited) {
+        if (src == dest) {
+            return true;
+        }
+        for (int nb : graph.get(src)) {
+            if (visited.add(nb)){
+                if (dfs(graph, nb, dest, visited)) {
+                    return true;
                 }
             }
         }
         return false;
     }
+
 }
