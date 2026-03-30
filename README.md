@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
+| [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
