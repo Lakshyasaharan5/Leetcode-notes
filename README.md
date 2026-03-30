@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
