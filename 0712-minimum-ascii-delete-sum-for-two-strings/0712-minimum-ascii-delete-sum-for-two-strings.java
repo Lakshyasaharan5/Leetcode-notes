@@ -1,34 +1,28 @@
 class Solution {
-    Integer[][] dp;
     public int minimumDeleteSum(String s1, String s2) {
-        dp = new Integer[s1.length()][s2.length()];
-        return dfs(s1, s2, 0, 0);
-    }
+        int m = s1.length(), n = s2.length();
+        int[][] dp = new int[m + 1][n + 1];
+        dp[m][n] = 0;
+        for (int i = m - 1; i >= 0; i--) {
+            dp[i][n] = dp[i + 1][n] + s1.charAt(i);
+        }
+        for (int j = n - 1; j >= 0; j--) {
+            dp[m][j] = dp[m][j + 1] + s2.charAt(j);
+        }
 
-    private int dfs(String s1, String s2, int i, int j) {
-        if (i == s1.length() && j == s2.length()) {
-            return 0;
-        }
-        if (i == s1.length()) {
-            int curr = 0;
-            for (char c : s2.substring(j).toCharArray()) {
-                curr += (int)c;
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (s1.charAt(i) == s2.charAt(j)) {
+                    dp[i][j] = dp[i + 1][j + 1];
+                } else {
+                    dp[i][j] = Math.min(
+                        dp[i + 1][j] + s1.charAt(i),
+                        dp[i][j + 1] + s2.charAt(j)
+                    );
+                }
             }
-            return curr;
         }
-        if (j == s2.length()) {
-            int curr = 0;
-            for (char c : s1.substring(i).toCharArray()) {
-                curr += (int)c;
-            }
-            return curr;
-        }
-        if (dp[i][j] != null) return dp[i][j];
-        if (s1.charAt(i) == s2.charAt(j)) {
-            return dp[i][j] = dfs(s1, s2, i + 1, j + 1);
-        }
-        int left = dfs(s1, s2, i, j + 1) + (int)s2.charAt(j);
-        int right = dfs(s1, s2, i + 1, j) + (int)s1.charAt(i);
-        return dp[i][j] = Math.min(left, right);
+
+        return dp[0][0];
     }
 }
