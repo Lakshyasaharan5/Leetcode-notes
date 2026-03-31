@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -862,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -873,4 +879,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0187-repeated-dna-sequences) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
