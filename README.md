@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
+| [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2140-solving-questions-with-brainpower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2140-solving-questions-with-brainpower) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -902,4 +905,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
+## Game Theory
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
