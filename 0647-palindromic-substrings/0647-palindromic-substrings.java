@@ -1,22 +1,19 @@
 class Solution {
     public int countSubstrings(String s) {
-        int res = 0;
-        for (int i=0; i<s.length(); i++){
-            int even = expand(s, i, i+1);
-            int odd = expand(s, i, i);
-            res += even + odd;
-        }
-
-        return res;
-    }
-
-    int expand(String s, int l, int r){
+        int n = s.length();
+        boolean[][] dp = new boolean[n][n];        
         int count = 0;
-        while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-            count++;
-            l--;
-            r++;
-        }
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (i + 1 >= j - 1) {
+                        dp[i][j] = true;
+                    } else
+                        dp[i][j] = dp[i + 1][j - 1];
+                } 
+                if (dp[i][j] == true) count++;
+            }
+        }    
         return count;
     }
 }
