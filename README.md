@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
