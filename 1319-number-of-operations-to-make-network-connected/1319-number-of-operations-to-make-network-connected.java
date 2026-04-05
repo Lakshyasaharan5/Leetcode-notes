@@ -11,27 +11,20 @@ class Solution {
         boolean[] visited = new boolean[n];
         int components = 0;
         for (int i = 0; i < n; i++) {
-            if (bfs(graph, i, visited))
+            if (!visited[i]) {
+                dfs(graph, i, visited);
                 components++;            
+            }
         }
             
         return components - 1;
     }
 
-    private boolean bfs(Map<Integer, List<Integer>> graph, int start, boolean[] visited) {
-        if (visited[start]) return false;
-        Queue<Integer> queue = new LinkedList<>();
-        queue.offer(start);
+    private void dfs(Map<Integer, List<Integer>> graph, int start, boolean[] visited) {
+        if (visited[start]) return;
         visited[start] = true;
-        while (!queue.isEmpty()) {
-            int computer = queue.poll();
-            for (int neib : graph.get(computer)) {
-                if (!visited[neib]) {
-                    visited[neib] = true;
-                    queue.offer(neib);
-                }
-            }
+        for (int neib : graph.get(start)) {
+            dfs(graph, neib, visited);
         }
-        return true;
     }
 }
