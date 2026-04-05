@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0997-find-the-town-judge) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
