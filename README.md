@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
