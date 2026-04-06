@@ -1,28 +1,49 @@
 class Solution {
-    Integer[][] dp;
     public int numTeams(int[] rating) {
-        int n = rating.length;        
+        int n = rating.length;
         int res = 0;
-        dp = new Integer[n][3];
-        for (int i = 0; i < n; i++) {
-            res += dfs(rating, i, 2, true);          
-        } 
-        dp = new Integer[n][3];
-        for (int i = 0; i < n; i++) {
-            res += dfs(rating, i, 2, false);
-        } 
+
+        // ascending
+        res += count(rating, true);
+
+        // descending
+        res += count(rating, false);
+
         return res;
     }
 
-    private int dfs(int[] rating, int start, int remaining, boolean ascending) {
-        if (remaining == 0) return 1;
-        if (dp[start][remaining] != null) return dp[start][remaining];
-        int curr = 0;
-        for (int i = start + 1; i < rating.length; i++) {
-            if ((ascending && rating[i] > rating[start]) || (!ascending && rating[i] < rating[start])) {
-                curr += dfs(rating, i, remaining - 1, ascending);
-            }      
+    private int count(int[] rating, boolean ascending) {
+        int n = rating.length;
+        int[][] dp = new int[n][3];
+
+        // base case
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = 1;
         }
-        return dp[start][remaining] = curr;
+
+        // remaining = 1 → 2
+        for (int r = 1; r <= 2; r++) {
+            for (int i = n - 1; i >= 0; i--) {
+                int curr = 0;
+
+                for (int j = i + 1; j < n; j++) {
+                    if ((ascending && rating[j] > rating[i]) ||
+                        (!ascending && rating[j] < rating[i])) {
+
+                        curr += dp[j][r - 1];
+                    }
+                }
+
+                dp[i][r] = curr;
+            }
+        }
+
+        // sum all starting points
+        int total = 0;
+        for (int i = 0; i < n; i++) {
+            total += dp[i][2];
+        }
+
+        return total;
     }
 }
