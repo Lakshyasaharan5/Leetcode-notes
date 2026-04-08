@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
+| [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0875-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
+| [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1043-partition-array-for-maximum-sum) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0560-subarray-sum-equals-k) |
+| [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1016-subarray-sums-divisible-by-k) |
