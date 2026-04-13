@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0841-keys-and-rooms) |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
 ## Game Theory
 |  |
 | ------- |
