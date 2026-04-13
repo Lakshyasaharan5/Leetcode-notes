@@ -1,22 +1,21 @@
 class Solution {
-    Integer[] dp;
     public int minHeightShelves(int[][] books, int shelfWidth) {
-        dp = new Integer[books.length];
-        return dfs(books, shelfWidth, 0);
-    }
-
-    private int dfs(int[][] books, int shelfWidth, int start) {
-        if (start >= books.length) return 0;     
-        if (dp[start] != null) return dp[start];   
-        int currentThickness = 0;
-        int maxHeight = 0;
-        int currBest = Integer.MAX_VALUE;
-        for (int i = start; i < books.length; i++) {
-            currentThickness += books[i][0];
-            if (currentThickness > shelfWidth) break;
-            maxHeight = Math.max(maxHeight, books[i][1]);
-            currBest = Math.min(currBest, maxHeight + dfs(books, shelfWidth, i + 1));
+        int n = books.length;
+        int[] dp = new int[n + 1];
+        // [0, 1, 2, 3]
+        for (int i = n - 1; i >= 0; i--) {
+            int currMaxHeight = 0;
+            int currThickness = 0;
+            int currBest = Integer.MAX_VALUE;
+            for (int j = i; j < n; j++) {
+                currThickness += books[j][0];
+                if (currThickness > shelfWidth) break;
+                currMaxHeight = Math.max(currMaxHeight, books[j][1]);
+                currBest = Math.min(currBest, currMaxHeight + dp[j + 1]);                
+            }
+            dp[i] = currBest;
         }
-        return dp[start] = currBest;
+
+        return dp[0];
     }
 }
