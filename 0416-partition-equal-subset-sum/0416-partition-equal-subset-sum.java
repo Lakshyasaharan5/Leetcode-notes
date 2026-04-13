@@ -1,17 +1,21 @@
 class Solution {
-    Boolean[][] dp;
     public boolean canPartition(int[] nums) {
         int total = 0;
-        for (int n : nums) total += n;
+        for (int k : nums) total += k;
+        int target = total / 2;
         if (total % 2 != 0) return false;
-        dp = new Boolean[nums.length][(total / 2) + 1];
-        return dfs(nums, total / 2, 0);
-    }
-
-    private boolean dfs(int[] nums, int target, int i) {
-        if (i >= nums.length || target < 0) return false;
-        if (target == 0) return true;
-        if (dp[i][target] != null) return dp[i][target];
-        return dp[i][target] = dfs(nums, target - nums[i], i + 1) || dfs(nums, target, i + 1);
+        Arrays.sort(nums);        
+        int n = nums.length;
+        boolean[][] dp = new boolean[n][target + 1];
+        dp[n - 1][0] = true;
+        if (nums[n - 1] <= target) dp[n - 1][nums[n - 1]] = true;
+        for (int i = n - 2; i >= 0; i--) {
+            for (int j = target; j >= 0; j--) {
+                dp[i][j] |= dp[i + 1][j];
+                if (j - nums[i] >= 0)
+                    dp[i][j] |= dp[i + 1][j - nums[i]];
+            }
+        }     
+        return dp[0][target];   
     }
 }
