@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
+| [1105-filling-bookcase-shelves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1105-filling-bookcase-shelves) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1043-partition-array-for-maximum-sum) |
+| [1105-filling-bookcase-shelves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1105-filling-bookcase-shelves) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
