@@ -30,8 +30,8 @@ class Solution {
                 int v = edge.to, w = edge.weight;
                 if (shortest[u] + w < shortest[v]) {
                     shortest[v] = shortest[u] + w;
-                }
-                pq.offer(new int[]{shortest[v], v});
+                    pq.offer(new int[]{shortest[v], v});
+                }                
             }
         }
         int time = -1;
