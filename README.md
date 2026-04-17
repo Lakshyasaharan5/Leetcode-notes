@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
