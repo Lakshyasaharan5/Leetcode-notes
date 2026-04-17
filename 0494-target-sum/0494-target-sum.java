@@ -6,10 +6,10 @@ class Solution {
         int newTarget = (target + sum) / 2;
         int[] dp = new int[newTarget + 1];
         dp[0] = 1;
-        for (int i = nums.length - 1; i >= 0; i--) {
+        for (int n : nums) {
             for (int j = newTarget; j >= 0; j--) {
-                if (j - nums[i] >= 0)
-                    dp[j] += dp[j - nums[i]];
+                if (j - n >= 0)
+                    dp[j] += dp[j - n];
             }
         }
         return dp[newTarget];
