@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
+| [0791-custom-sort-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
+| [0791-custom-sort-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
