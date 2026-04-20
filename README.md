@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Dynamic Programming
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
