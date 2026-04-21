@@ -1,20 +1,19 @@
-class Solution {    
-    HashMap<Integer, Integer> dp = new HashMap<>();
-    public int numDecodings(String s) {                
-        return dfs(s, 0);
-    }
-
-    private int dfs(String s, int i) {
-        if (i == s.length()) return 1;
-        if (s.charAt(i) == '0') return 0;
-        if (i == s.length() - 1) return 1;        
-        if (dp.containsKey(i)) return dp.get(i);
-        int res = dfs(s, i+1) + (isValid(Integer.parseInt(s.substring(i, i+2))) ? dfs(s, i+2) : 0);        
-        dp.put(i, res);
-        return dp.get(i);
-    }
-
-    private boolean isValid(int num) {
-        return num > 0 && num <= 26;
+class Solution {
+    public int numDecodings(String s) {
+        int n = s.length();
+        int[] dp = new int[n + 1];
+        dp[n] = 1;
+        dp[n - 1] = (s.charAt(n - 1) == '0' ? 0 : 1);
+        for (int i = n - 2; i >= 0; i--) {
+            int oneChar = Integer.parseInt(s.charAt(i) + "");
+            int twoChar = Integer.parseInt(s.charAt(i) + "" + s.charAt(i + 1));
+            if (oneChar == 0) {
+                dp[i] = 0;
+                continue;
+            }
+            dp[i] = dp[i + 1];
+            if (twoChar <= 26) dp[i] += dp[i + 2];
+        }
+        return dp[0];
     }
 }
