@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0879-profitable-schemes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0879-profitable-schemes) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
+| [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1049-last-stone-weight-ii) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
@@ -1016,9 +1018,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
