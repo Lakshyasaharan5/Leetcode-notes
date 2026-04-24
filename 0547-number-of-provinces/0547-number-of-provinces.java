@@ -26,11 +26,17 @@ class Solution {
         return this.components;
     }
 
+    /*
+             4
+             \ \
+              1 2
+               \
+                 2
+     */
     private int find(int node, int[] parent) {
-        while (parent[node] != node) {
-            node = parent[node];
-        }
-        return node;
+        if (parent[node] == node) return node;
+        parent[node] = find(parent[node], parent);
+        return parent[node];
     }
 
     private void union(int u, int v, int[] parent) {
