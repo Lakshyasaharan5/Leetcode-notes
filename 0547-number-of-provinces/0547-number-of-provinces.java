@@ -1,5 +1,6 @@
 class Solution {
     int components = 0;
+    int[] rank;
     public int findCircleNum(int[][] isConnected) {
         //  1 2 3
         // [1,1,0] 1
@@ -10,6 +11,7 @@ class Solution {
         int n = isConnected.length;
         this.components = n;
         int[] parent = new int[n];
+        rank = new int[n];
         for (int i = 0; i < n; i++) parent[i] = i;
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
@@ -43,7 +45,12 @@ class Solution {
         int pu = find(u, parent);
         int pv = find(v, parent);
         if (pu == pv) return;
-        parent[pu] = pv;
+        if (rank[pu] > rank[pv]) {
+            parent[pv] = pu;            
+        } else {
+            parent[pu] = pv;
+            rank[pv]++;      
+        }
         this.components--;
     }
     
