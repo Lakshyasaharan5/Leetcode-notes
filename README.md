@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
