@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
