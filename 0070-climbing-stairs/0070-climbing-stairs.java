@@ -1,6 +1,18 @@
 class Solution {
-    Integer[] dp;
     public int climbStairs(int n) {
+        // [2 1 1 0 0]
+        //  0 1 2 3 4
+        //    c a b
+        //    c = a + b
+        //    b = a
+        //    a = c
+        int a = 1, b = 0;
+        while (n-- > 0) {
+            int c = a + b;
+            b = a;
+            a = c;
+        }
+        return a;
         //            0
         //          /   \
         //         1     2
@@ -8,14 +20,6 @@ class Solution {
         //      2     3 
         //     / \
         //    3   4 
-        dp = new Integer[n + 1];
-        return dfs(n, 0);
-    }
-
-    private int dfs(int n, int i) {
-        if (i > n) return 0;
-        if (i == n) return 1;
-        if (dp[i] != null) return dp[i];
-        return dp[i] = dfs(n, i + 1) + dfs(n, i + 2);
+        
     }
 }
