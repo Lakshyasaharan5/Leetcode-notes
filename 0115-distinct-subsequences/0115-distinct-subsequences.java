@@ -1,30 +1,19 @@
 class Solution {
-
     public int numDistinct(String s, String t) {
-        int[][] dp = new int[s.length()][t.length()];
-        for(int i=0; i<s.length(); i++){
-            for(int j=0; j<t.length(); j++){
-                dp[i][j]=-1;
+        int m = s.length(), n = t.length();
+        int[] dp = new int[n + 1];
+        dp[n] = 1;
+        for (int i = m - 1; i >= 0; i--) {
+            int[] next = new int[n + 1];
+            next[n] = 1;
+            for (int j = n - 1; j >= 0; j--) {
+                next[j] = dp[j];
+                if (s.charAt(i) == t.charAt(j)) {
+                    next[j] += dp[j + 1];
+                }
             }
+            dp = next;
         }
-         return helper(s, t, 0, 0, dp);
-    }
-
-    public int helper(String s, String t, int i, int j, int[][] dp){
-        if(j==t.length()){            
-            return 1;
-        }
-        if(i==s.length())return 0;
-
-        if(dp[i][j]>=0)return dp[i][j];
-
-        int a=0, b=0;
-        if(s.charAt(i)==t.charAt(j))
-            a = helper(s,t, i+1, j+1, dp);
-
-        b = helper(s,t, i+1, j, dp);
-
-        return dp[i][j]=a+b;
-        
+        return dp[0];
     }
 }
