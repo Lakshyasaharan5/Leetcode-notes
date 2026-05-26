@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
 | [1514-path-with-maximum-probability](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1395-count-number-of-teams) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
