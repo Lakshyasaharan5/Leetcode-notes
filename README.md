@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1395-count-number-of-teams) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
