@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2374-node-with-highest-edge-score](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2374-node-with-highest-edge-score) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0338-counting-bits) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
