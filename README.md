@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
