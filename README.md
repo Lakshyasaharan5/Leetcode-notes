@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1701-average-waiting-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1701-average-waiting-time) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Design
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -925,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
