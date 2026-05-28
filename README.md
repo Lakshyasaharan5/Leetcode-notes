@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-solving-questions-with-brainpower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2374-node-with-highest-edge-score](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2374-node-with-highest-edge-score) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String Matching
 |  |
 | ------- |
