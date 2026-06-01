@@ -1,28 +1,28 @@
 class Solution {
-    List<String> result;
     public List<String> generateParenthesis(int n) {
-        result = new ArrayList<>();
-        List<Character> curr = new ArrayList<>();
-        curr.add('(');
-        dfs(n - 1, n, curr);
-        return result;
+        List<String> res = new ArrayList<>();
+        dfs(n, n, new StringBuilder(), res);
+        return res;
     }
 
-    private void dfs(int open, int closed, List<Character> curr) {
-        if (closed < open || open < 0) return;
-        if (closed == 0 && open == 0) {
-            StringBuilder sb = new StringBuilder();
-            for (char ch : curr) {
-                sb.append(ch);
-            }
-            result.add(sb.toString());
+    private void dfs(int open, int closed, StringBuilder sb, List<String> res) {
+        if (open < 0) return;
+        if (open == 0 && closed == 0) {
+            res.add(sb.toString());
+            return;
         }
-        curr.add('(');
-        dfs(open - 1, closed, curr);
-        curr.remove(curr.size() - 1);
+        if (open == closed) {
+            sb.append('(');
+            dfs(open - 1, closed, sb, res);
+            sb.deleteCharAt(sb.length() - 1);
+        } else {
+            sb.append('(');
+            dfs(open - 1, closed, sb, res);
+            sb.deleteCharAt(sb.length() - 1);
 
-        curr.add(')');
-        dfs(open, closed - 1, curr);
-        curr.remove(curr.size() - 1);
+            sb.append(')');
+            dfs(open, closed - 1, sb, res);
+            sb.deleteCharAt(sb.length() - 1);
+        }
     }
 }
