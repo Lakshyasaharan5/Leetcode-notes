@@ -1,20 +1,16 @@
 class Solution {
-    Integer[][] dp;
     public int numSquares(int n) {
-        int maxI = (int) Math.sqrt(n);
-        dp = new Integer[n + 1][maxI + 2];
-        return dfs(n, 1);
+        int[] dp = new int[n + 1];
+        return dfs(n, dp);
     }
 
-    private int dfs(int n, int i) {
+    private int dfs(int n, int[] dp) {
         if (n == 0) return 0;
-        if (dp[n][i] != null) return dp[n][i];
+        if (dp[n] != 0) return dp[n];
         int curr = n;
-        int initial_i = i;
-        while (i * i <= n) {
-            curr = Math.min(curr, dfs(n - i * i, i));
-            i++;
+        for (int i = 1; i * i <= n; i++) {
+            curr = Math.min(curr, dfs(n - i * i, dp));
         }
-        return dp[n][initial_i] = curr + 1;
+        return dp[n] = curr + 1;
     }
 }
