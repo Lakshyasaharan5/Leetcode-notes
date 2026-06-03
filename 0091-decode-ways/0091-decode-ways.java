@@ -1,23 +1,18 @@
 class Solution {
     public int numDecodings(String s) {
-        int n = s.length();
-        int a = s.charAt(n - 1) == '0' ? 0 : 1;
-        int b = 1;
-        for (int i = n - 2; i >=0; i--) {
-            int c = 0;
-            int one = Integer.parseInt(s.charAt(i) + "");
-            int two = Integer.parseInt(s.charAt(i) + "" + s.charAt(i + 1));
-            if (one == 0) {
-                c = 0;
-            } else {
-                c = a;
-                if (two <= 26) {
-                    c += b;
-                }
-            }
-            b = a;
-            a = c;
-        } 
-        return a;
-     }
+        int[] dp = new int[s.length()];
+        Arrays.fill(dp, -1);
+        return dfs(s, 0, dp);
+    }
+
+    private int dfs(String s, int i, int[] dp) {
+        if (i == s.length()) return 1;
+        if (s.charAt(i) == '0') return 0;
+        if (dp[i] != -1) return dp[i];
+        int left = dfs(s, i + 1, dp);        
+        int right = 0;
+        if (i < s.length() - 1 && Integer.parseInt(s.substring(i, i + 2)) <= 26) 
+            right = dfs(s, i + 2, dp);
+        return dp[i] = left + right;
+    }
 }
