@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -1123,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2374-node-with-highest-edge-score](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2374-node-with-highest-edge-score) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
