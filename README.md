@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2109-adding-spaces-to-a-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2374-node-with-highest-edge-score](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2374-node-with-highest-edge-score) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Quickselect
 |  |
 | ------- |
@@ -1076,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
