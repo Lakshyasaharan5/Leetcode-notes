@@ -1,14 +1,19 @@
 class Solution {
+    Integer[] dp;
     public int maxSumAfterPartitioning(int[] arr, int k) {
-        int n = arr.length;
-        int[] dp = new int[n + 1];
-        for (int i = n - 1; i >= 0; i--) {
-            int currMax = -1;
-            for (int j = i; j < Math.min(i + k, n); j++) {
-                currMax = Math.max(currMax, arr[j]);
-                dp[i] = Math.max(dp[i], currMax * (j - i + 1) + dp[j + 1]);
-            }
+        dp = new Integer[arr.length];
+        return dfs(arr, k, 0);
+    }
+
+    private int dfs(int[] arr, int k, int start) {
+        if (start == arr.length) return 0;
+        if (dp[start] != null) return dp[start];
+        int currRes = Integer.MIN_VALUE;
+        int currMaxValue = arr[start];
+        for (int i = start; i < Math.min(start + k, arr.length); i++) {
+            currMaxValue = Math.max(currMaxValue, arr[i]);
+            currRes = Math.max(currRes, currMaxValue * (i - start + 1) + dfs(arr, k, i + 1));
         }
-        return dp[0];
+        return dp[start] = currRes;
     }
 }
