@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Design
