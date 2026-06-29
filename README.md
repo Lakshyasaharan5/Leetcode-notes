@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0636-exclusive-time-of-functions) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
