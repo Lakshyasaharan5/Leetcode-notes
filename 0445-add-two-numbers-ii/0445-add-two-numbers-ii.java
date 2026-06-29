@@ -30,16 +30,14 @@ class Solution {
             if (!st2.isEmpty()) sum += st2.pop();
             sum += carry;
             carry = sum/10; //next carry
-            ListNode newNode = new ListNode(sum % 10);
-            ListNode temp = head.next;
+            ListNode newNode = new ListNode(sum % 10);            
+            newNode.next = head.next;
             head.next = newNode;
-            newNode.next = temp;
         }
         if (carry > 0) {
             ListNode newNode = new ListNode(carry);
-            ListNode temp = head.next;
+            newNode.next = head.next;
             head.next = newNode;
-            newNode.next = temp;
         }
         return head.next;
     }
