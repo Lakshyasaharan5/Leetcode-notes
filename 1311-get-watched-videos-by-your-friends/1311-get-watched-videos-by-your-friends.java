@@ -1,39 +1,40 @@
 class Solution {
     public List<String> watchedVideosByFriends(List<List<String>> watchedVideos, int[][] friends, int id, int level) {
-        Queue<Integer> queue = new LinkedList<>();
-        Set<Integer> visited = new HashSet<>();
-        queue.offer(id);
-        visited.add(id);
-        int currLevel = 0;
-        Set<String> videos = new HashSet<>();
-        while (!queue.isEmpty()) {
-            int currSize = queue.size();
+        int n = friends.length;
+        Queue<Integer> que = new LinkedList<>();
+        boolean[] visited = new boolean[n];
+        que.offer(id);
+        visited[id] = true;
+        while (!que.isEmpty() && level-- > 0) {
+            int currSize = que.size();
             while (currSize-- > 0) {
-                for (int friend : friends[queue.poll()]) {
-                    if (visited.add(friend)) {
-                        queue.offer(friend);
+                int front = que.poll();
+                for (int neib : friends[front]) {
+                    if (!visited[neib]) {
+                        visited[neib] = true;
+                        que.offer(neib);
                     }
                 }
             }
-            currLevel++;
-            if (currLevel == level) {
-                break;
+        }
+        if (que.isEmpty()) // nothing at that level
+            return new ArrayList<>();
+
+        // create freq map for watched video at that level
+        Map<String, Integer> freq = new HashMap<>();
+        while (!que.isEmpty()) {
+            int front = que.poll();
+            for (String video : watchedVideos.get(front)) {
+                freq.put(video, freq.getOrDefault(video, 0) + 1);
             }
         }
-        Map<String, Integer> freq = new HashMap<>();
-        while (!queue.isEmpty()) {
-            for (String video : watchedVideos.get(queue.poll())) {
-                freq.put(video, freq.getOrDefault(video, 0) + 1);
-            }            
-        }
+
+        // sort based on freq and then based on alphabetically
         List<String> res = new ArrayList<>(freq.keySet());
         res.sort((a, b) -> {
-            int fa = freq.get(a);
-            int fb = freq.get(b);
-            if (fa == fb) {
+            if (freq.get(a) == freq.get(b)) 
                 return a.compareTo(b);
-            }
-            return fa - fb;
+            return freq.get(a) - freq.get(b);
         });
         return res;
     }
