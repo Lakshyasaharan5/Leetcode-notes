@@ -1,7 +1,7 @@
 class Solution {
     public List<String> watchedVideosByFriends(List<List<String>> watchedVideos, int[][] friends, int id, int level) {
         int n = friends.length;
-        Queue<Integer> que = new LinkedList<>();
+        Queue<Integer> que = new ArrayDeque<>();
         boolean[] visited = new boolean[n];
         que.offer(id);
         visited[id] = true;
