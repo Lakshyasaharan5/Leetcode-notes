@@ -32,9 +32,11 @@ class Solution {
         // sort based on freq and then based on alphabetically
         List<String> res = new ArrayList<>(freq.keySet());
         res.sort((a, b) -> {
-            if (freq.get(a) == freq.get(b)) 
+            int fa = freq.get(a);
+            int fb = freq.get(b);
+            if (fa == fb) 
                 return a.compareTo(b);
-            return freq.get(a) - freq.get(b);
+            return fa - fb;
         });
         return res;
     }
