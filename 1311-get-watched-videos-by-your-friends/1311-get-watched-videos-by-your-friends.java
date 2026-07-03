@@ -1,43 +1,45 @@
 class Solution {
     public List<String> watchedVideosByFriends(List<List<String>> watchedVideos, int[][] friends, int id, int level) {
         int n = friends.length;
-        Queue<Integer> que = new ArrayDeque<>();
         boolean[] visited = new boolean[n];
-        que.offer(id);
+
+        int[] curr = new int[n];
+        int[] next = new int[n];
+        int currLen = 0, nextLen = 0;
+
+        curr[currLen++] = id;
         visited[id] = true;
-        while (!que.isEmpty() && level-- > 0) {
-            int currSize = que.size();
-            while (currSize-- > 0) {
-                int front = que.poll();
-                for (int neib : friends[front]) {
+
+        for (int l = 0; l < level && currLen > 0; l++) {
+            nextLen = 0;
+            for (int i = 0; i < currLen; i++) {
+                for (int neib : friends[curr[i]]) {
                     if (!visited[neib]) {
                         visited[neib] = true;
-                        que.offer(neib);
+                        next[nextLen++] = neib;
                     }
                 }
             }
+            // swap the buffers — no allocation, just reference swap
+            int[] tmp = curr; curr = next; next = tmp;
+            currLen = nextLen;
         }
-        if (que.isEmpty()) // nothing at that level
-            return new ArrayList<>();
 
-        // create freq map for watched video at that level
+        if (currLen == 0) return List.of();
+
         Map<String, Integer> freq = new HashMap<>();
-        while (!que.isEmpty()) {
-            int front = que.poll();
-            for (String video : watchedVideos.get(front)) {
-                freq.put(video, freq.getOrDefault(video, 0) + 1);
+        for (int i = 0; i < currLen; i++) {
+            for (String video : watchedVideos.get(curr[i])) {
+                freq.merge(video, 1, Integer::sum);
             }
         }
 
-        // sort based on freq and then based on alphabetically
-        List<String> res = new ArrayList<>(freq.keySet());
-        res.sort((a, b) -> {
-            int fa = freq.get(a);
-            int fb = freq.get(b);
-            if (fa == fb) 
-                return a.compareTo(b);
-            return fa - fb;
-        });
+        List<Map.Entry<String, Integer>> entries = new ArrayList<>(freq.entrySet());
+        entries.sort(Map.Entry.<String, Integer>comparingByValue()
+                .thenComparing(Map.Entry.comparingByKey()));
+
+        List<String> res = new ArrayList<>(entries.size());
+        for (var e : entries) res.add(e.getKey());
         return res;
     }
 }
