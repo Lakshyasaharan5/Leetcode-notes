@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
+| [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1701-average-waiting-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1701-average-waiting-time) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1514-path-with-maximum-probability) |
+| [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Monotonic Queue
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
