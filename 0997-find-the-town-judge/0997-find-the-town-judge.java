@@ -1,20 +1,26 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        if (n == 1) return 1;
-        Map<Integer, List<Integer>> incoming = new HashMap<>();
-        Map<Integer, List<Integer>> outgoing = new HashMap<>();
-        // a -> b
-        for (int[] edge : trust) {
-            int u = edge[0], v = edge[1];
-            outgoing.computeIfAbsent(u, k -> new ArrayList<Integer>()).add(v);
-            incoming.computeIfAbsent(v, k -> new ArrayList<Integer>()).add(u);
+        /**
+            n = 3
+            trust = [[1,3],[2,3],[3,1]]
+            trustedBy map
+            3: 1, 2
+            1: 3
+        */
+        if (n == 1) return n;
+        Map<Integer, List<Integer>> trustedBy = new HashMap<>();
+        Set<Integer> normalPeople = new HashSet<>();
+        for (int[] t : trust) {
+            int u = t[0], v = t[1]; //v: [u]
+            trustedBy.computeIfAbsent(v, (k) -> new ArrayList<>()).add(u);            
+            normalPeople.add(u);
         }
-        for (Map.Entry<Integer, List<Integer>> e : incoming.entrySet()) {
-            if (e.getValue().size() == n - 1) {
-                if (!outgoing.containsKey(e.getKey())) {
-                    return e.getKey();
-                }
-            }
+        for (int i = 1; i <= n; i++) {
+            if (trustedBy.containsKey(i) && 
+                trustedBy.get(i).size() == n - 1 &&
+                !normalPeople.contains(i)
+            )
+                return i;
         }
         return -1;
     }
