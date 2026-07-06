@@ -1,47 +1,42 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        int n = numCourses;
-        List<Integer>[] graph = new ArrayList[n];
-        for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
+        Map<Integer, List<Integer>> graph = new HashMap<>();
+        int[] indegree = new int[numCourses];        
+        for (int[] edge : prerequisites) {
+            // [a,b] b->a
+            graph.computeIfAbsent(edge[1], k -> new ArrayList<>()).add(edge[0]);
+            indegree[edge[0]]++;
         }
-        // b -> a pre[a,b]
-        for (int[] pre : prerequisites) {
-            graph[pre[1]].add(pre[0]);
+        Queue<Integer> que = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) 
+                que.offer(i);
         }
-        Stack<Integer> stack = new Stack<>();
-        Set<Integer> visited = new HashSet<>();
-        Set<Integer> visiting = new HashSet<>();
-        for (int course = 0; course < n; course++) {
-            if (!dfs(graph, course, visiting, visited, stack)) {
-                return new int[]{};
+        List<Integer> res = new ArrayList<>();
+        while (!que.isEmpty()) {
+            int front = que.poll();
+            res.add(front);
+            if (!graph.containsKey(front)) continue;
+            for (int nb : graph.get(front)) {
+                indegree[nb]--;
+                if (indegree[nb] == 0)
+                    que.offer(nb);
             }
         }
-        int[] plan = new int[stack.size()];
-        int k = 0;
-        while (!stack.isEmpty()) {
-            plan[k++] = stack.pop();
-        }
-        return plan;
-    }
-
-    private boolean dfs(List<Integer>[] graph, int course, Set<Integer> 
-                        visiting, Set<Integer> visited, Stack<Integer> stack) {
-        if (visited.contains(course)) {
-            return true;
-        }
-        if (visiting.contains(course)) {
-            return false;
-        }
-        visiting.add(course);
-        for (int nextCourse : graph[course]) {
-            if (!dfs(graph, nextCourse, visiting, visited, stack)) {
-                return false;
-            }
-        }
-        visiting.remove(course);
-        visited.add(course);
-        stack.push(course);
-        return true;
+        if (res.size() < numCourses) return new int[]{};
+        int[] resArray = new int[numCourses];
+        for (int i = 0; i < numCourses; i++)
+            resArray[i] = res.get(i);
+        return resArray;
+        /**
+            numCourses = 4, 
+            [[1,0],[2,0],[3,1],[3,2]]
+            0->1<->2
+                 /^
+                3 
+            que = []     res = [0,3]
+            indegree = [0 1 1 0]
+                        0 1 2 3
+         */
     }
 }
