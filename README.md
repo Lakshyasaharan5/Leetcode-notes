@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0219-contains-duplicate-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0242-valid-anagram) |
