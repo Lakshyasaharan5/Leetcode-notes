@@ -1,34 +1,50 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
+        /**
+            1--2 
+            | /
+            3 
+
+            1-2-3
+             \|
+              4
+            [[1,2][2,3][2,4][1,4]] res=[1,4]
+           0 1 2 3 4]
+             1 2 3 4
+
+            union(edge)
+                if same parent 
+                    return false
+                return true
+            n-1 edges -> tree
+            n
+        */
+
         int n = edges.length;
-        int[] parent = new int[n + 1];
+        int[] parents = new int[n + 1];
         for (int i = 0; i < n + 1; i++) {
-            parent[i] = i;
+            parents[i] = i;
         }
-        int[] cycle = new int[2];
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1];
-            if (!union(u, v, parent)) {
-                cycle = edge;
-                break;
+        for (int[] e : edges) {
+            if (!union(parents, e)) {
+                return e;
             }
         }
-        return cycle;
+        return new int[]{-1, -1};
     }
 
-    private int find(int node, int[] parent) {
-        while (node != parent[node])
-            node = parent[node];
-        return node;
+    private int find(int[] parents, int x) {
+        while (x != parents[x])
+            x = parents[x];
+        return x;
     }
 
-    private boolean union(int u, int v, int[] parent) {
-        int pu = find(u, parent);
-        int pv = find(v, parent);
+    private boolean union(int[] parents, int[] e) {
+        int u = e[0], v = e[1];
+        int pu = find(parents, u);
+        int pv = find(parents, v);
         if (pu == pv) return false;
-        parent[pv] = pu;
+        parents[pu] = pv;
         return true;
-    }
-
-
+    }   
 }
