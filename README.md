@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2140-solving-questions-with-brainpower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2140-solving-questions-with-brainpower) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
