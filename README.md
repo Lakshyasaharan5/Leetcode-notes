@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
+| [0931-minimum-falling-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0879-profitable-schemes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0879-profitable-schemes) |
+| [0931-minimum-falling-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1035-uncrossed-lines) |
