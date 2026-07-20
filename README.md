@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3975-filter-occupied-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3975-filter-occupied-intervals) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3975-filter-occupied-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3975-filter-occupied-intervals) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Bucket Sort
