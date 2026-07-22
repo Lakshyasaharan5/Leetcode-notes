@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1466-jump-game-v) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1976-number-of-ways-to-arrive-at-destination) |
