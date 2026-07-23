@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3975-filter-occupied-intervals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3975-filter-occupied-intervals) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
 |  |
 | ------- |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1171,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
