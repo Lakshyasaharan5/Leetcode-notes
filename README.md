@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0875-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
+| [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
 ## Data Stream
