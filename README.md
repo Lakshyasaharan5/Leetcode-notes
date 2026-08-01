@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0392-is-subsequence) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1025-divisor-game) |
 | [1690-stone-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1690-stone-game-vii) |
