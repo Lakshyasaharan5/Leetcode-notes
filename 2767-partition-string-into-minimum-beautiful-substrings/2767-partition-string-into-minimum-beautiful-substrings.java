@@ -1,5 +1,5 @@
 class Solution {
-    Integer[] dp;
+
     public int minimumBeautifulSubstrings(String s) {
         /**
                 1 = 1
@@ -12,7 +12,9 @@ class Solution {
                 2|_3,  1
                  |_1,  1
 
-                1011
+                1011~
+                2~210
+
 
                 1, 10, 101, 1011
                 
@@ -22,22 +24,24 @@ class Solution {
 
 
          */
-        dp = new Integer[s.length()];
-        int res = dfs(s, 0);
-        return res == Integer.MAX_VALUE ? -1 : res;
+        
+        int n = s.length();
+        int[] dp = new int[n + 1];
+        for (int i = n - 1; i >= 0; i--) {
+            int min = Integer.MAX_VALUE;
+            for (int j = i; j < n; j++) {
+                String curr = s.substring(i, j + 1);
+                if (curr.charAt(0) == '0') break;
+                if (!isPower5(curr)) continue;
+                min = Math.min(min, dp[j + 1]);
+            }
+            dp[i] = min == Integer.MAX_VALUE ? min : min + 1;
+        }
+        return dp[0] == Integer.MAX_VALUE ? -1 : dp[0];
+        
     }
 
-    private int dfs(String s, int start) {
-        if (start >= s.length()) return 0;
-        if (dp[start] != null) return dp[start];
-        int min = Integer.MAX_VALUE;
-        for (int i = start; i < s.length(); i++) {
-            String curr = s.substring(start, i + 1); 
-            if (curr.charAt(0) == '0' || !isPower5(curr)) continue;
-            min = Math.min(min, dfs(s, i + 1));
-        }
-        return dp[start] = min == Integer.MAX_VALUE ? min : min + 1;
-    }
+    
 
     private boolean isPower5(String binary) {
         // 101
