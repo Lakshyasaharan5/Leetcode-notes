@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bit Manipulation
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Backtracking
 |  |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1189-maximum-number-of-balloons) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Quickselect
 |  |
