@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0804-unique-morse-code-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0997-find-the-town-judge) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Rolling Hash
 |  |
