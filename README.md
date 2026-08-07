@@ -1371,4 +1371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0374-guess-number-higher-or-lower) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
