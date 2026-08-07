@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0496-next-greater-element-i) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0509-fibonacci-number) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 ## Iterator
 |  |
@@ -1384,4 +1387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0802-find-eventual-safe-states) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
