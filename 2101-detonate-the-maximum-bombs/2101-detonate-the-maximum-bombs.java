@@ -24,7 +24,7 @@ class Solution {
         }
         int max_detonated = 1;
         for (int i = 0; i < n; i++) {
-            int detonated = bfs(graph, i, n);
+            int detonated = dfs(graph, i, new boolean[n]);
             max_detonated = Math.max(max_detonated, detonated);
         }
         return max_detonated;
@@ -61,5 +61,15 @@ class Solution {
             }
         }
         return cnt;
+    }
+
+    private int dfs(Map<Integer, List<Integer>> graph, int start, boolean[] visited) {
+        if (visited[start]) return 0;        
+        visited[start] = true;
+        int curr = 0;
+        for (int nb : graph.get(start)) {            
+                curr += dfs(graph, nb, visited);        
+        }
+        return curr + 1;
     }
 }
