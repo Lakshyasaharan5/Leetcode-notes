@@ -1405,4 +1405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0851-loud-and-rich) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
