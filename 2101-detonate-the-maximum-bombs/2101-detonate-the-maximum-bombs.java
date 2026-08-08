@@ -1,49 +1,65 @@
 class Solution {
     public int maximumDetonation(int[][] bombs) {
-        int N = bombs.length;
+        int n = bombs.length;
         Map<Integer, List<Integer>> graph = new HashMap<>();
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < n; i++) {
+            graph.put(i, new ArrayList<>());
+        }
+        for (int i = 0; i < n; i++) {
             int[] u = bombs[i];
-            if (!graph.containsKey(i)) {
-                graph.put(i, new ArrayList<>());
-            }
-            for (int j = i + 1; j < N; j++) {
-                if (!graph.containsKey(j)) {
-                    graph.put(j, new ArrayList<>());
-                }
-                int[] v = bombs[j];  
-                long dx = u[0] - v[0];
-                long dy = u[1] - v[1];
-                long distSq = dx * dx + dy * dy;
-                
-                long r1 = (long)u[2] * u[2];
-                long r2 = (long)v[2] * v[2];              
-                
-                // can u detonate v
-                if (r1 >= distSq) {
+            for (int j = i + 1; j < n; j++) {
+                int[] v = bombs[j];
+                long dx = (long)u[0]-v[0];
+                long dy = (long)u[1]-v[1];
+                long dist_sq = (dx * dx) + (dy * dy);
+                if ((long)u[2] * u[2] >= dist_sq) {
+                    // u -> v
                     graph.get(i).add(j);
-                }   
-                // can v detonate u
-                if (r2 >= distSq) {
+                }
+                if ((long)v[2] * v[2] >= dist_sq) {
+                    // v -> u
                     graph.get(j).add(i);
                 }
-            }            
+            }
         }
-        int detonate = 0;
-        for (int bomb = 0; bomb < N; bomb++) {
-            boolean[] visited = new boolean[N];
-            detonate = Math.max(detonate, dfs(graph, bomb, visited));
+        int max_detonated = 1;
+        for (int i = 0; i < n; i++) {
+            int detonated = bfs(graph, i, n);
+            max_detonated = Math.max(max_detonated, detonated);
         }
-        return detonate;
+        return max_detonated;
+        /**
+            b1      b2
+                b3
+                        b4
+            b1: [b3,b2]
+            b2: [b3]
+            b3: []
+            b4: [b1, b2, b3]
+
+            b1----------|
+                |-------b2
+            d(b1,b2) <= r
+         */
+        
     }
 
-    private int dfs(Map<Integer, List<Integer>> graph, int bomb, boolean[] visited) {
-        if (visited[bomb]) return 0;
-        visited[bomb] = true;
-        int curr = 0;
-        for (int nextBomb : graph.get(bomb)) {            
-            curr += dfs(graph, nextBomb, visited);
+    private int bfs(Map<Integer, List<Integer>> graph, int start, int n) {
+        int cnt = 0;
+        Queue<Integer> que = new LinkedList<>();
+        boolean[] visited = new boolean[n];
+        que.offer(start);
+        visited[start] = true;
+        while (!que.isEmpty()) {
+            int front = que.poll();
+            cnt++;
+            for (int nb : graph.get(front)) {
+                if (!visited[nb]) {
+                    visited[nb] = true;
+                    que.offer(nb);
+                }
+            }
         }
-        return curr + 1;
+        return cnt;
     }
 }
