@@ -920,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2374-node-with-highest-edge-score](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2374-node-with-highest-edge-score) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Ordered Set
