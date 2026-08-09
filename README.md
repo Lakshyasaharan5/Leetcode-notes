@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0990-satisfiability-of-equality-equations) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1971-find-if-path-exists-in-graph) |
