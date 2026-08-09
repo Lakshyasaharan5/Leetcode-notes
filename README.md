@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
