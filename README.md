@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2090-k-radius-subarray-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2090-k-radius-subarray-averages) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2109-adding-spaces-to-a-string) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
+| [2090-k-radius-subarray-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2090-k-radius-subarray-averages) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
