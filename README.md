@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
@@ -1419,4 +1421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
