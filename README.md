@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Queue
 |  |
@@ -1174,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
