@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [0931-minimum-falling-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0962-maximum-width-ramp) |
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0983-minimum-cost-for-tickets) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0883-car-fleet) |
+| [0948-bag-of-tokens](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0948-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
@@ -1156,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0948-bag-of-tokens](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0948-bag-of-tokens) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1642-furthest-building-you-can-reach) |
