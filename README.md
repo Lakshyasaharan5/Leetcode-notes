@@ -1470,4 +1470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
