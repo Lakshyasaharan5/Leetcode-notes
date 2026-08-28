@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0560-subarray-sum-equals-k) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0374-guess-number-higher-or-lower) |
+| [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0875-koko-eating-bananas) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0877-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1014-k-closest-points-to-origin) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0813-largest-sum-of-averages) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
@@ -1258,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0398-random-pick-index) |
+| [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0912-random-pick-with-weight) |
 ## Iterator
 |  |
