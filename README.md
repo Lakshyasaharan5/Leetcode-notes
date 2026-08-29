@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2390-removing-stars-from-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 ## Enumeration
 |  |
 | ------- |
