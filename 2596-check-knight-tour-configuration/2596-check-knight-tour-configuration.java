@@ -32,20 +32,13 @@ class Solution {
                             return true
                 return false
 
-         */
-        if (grid[0][0] != 0) return false;
-        int n = grid.length;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    if (dfs(grid, i, j, 0)) {
-                        return true;
-                    }
-                }
-            }
-        }
+            [[8,3,6],
+             [5,0,1],
+             [2,7,4]]
 
-        return false;
+         */   
+        if (grid[0][0] != 0) return false;     
+        return dfs(grid, 0, 0, 0);
     }
 
     private boolean dfs(int[][] grid, int r, int c, int count) {
