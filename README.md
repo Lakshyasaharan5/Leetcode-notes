@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1052-grumpy-bookstore-owner) |
 | [1105-filling-bookcase-shelves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1105-filling-bookcase-shelves) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1222-queens-that-can-attack-the-king) |
 | [1701-average-waiting-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1701-average-waiting-time) |
 | [2109-adding-spaces-to-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
