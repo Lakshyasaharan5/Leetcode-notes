@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0204-count-primes) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
