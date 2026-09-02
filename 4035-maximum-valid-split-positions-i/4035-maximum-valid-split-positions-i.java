@@ -18,11 +18,18 @@ class Solution {
             return res;
         }
 
+        int[] premain = new int[nums.length];
+        premain[0] = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            premain[i] = gcd(premain[i - 1], nums[i]);
+        }
+
         // try removing each index
         for (int skip = 0; skip < nums.length; skip++) {
+            if (skip > 0 && premain[skip] == premain[skip - 1]) continue;
             int[] temp = new int[nums.length - 1];
             int idx = 0;
-            for (int i = 0; i < nums.length; i++) {
+            for (int i = 0; i < nums.length; i++) {                
                 if (i == skip) continue;
                 temp[idx++] = nums[i];
             }
