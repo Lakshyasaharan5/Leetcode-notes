@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0797-all-paths-from-source-to-target) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0797-all-paths-from-source-to-target) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
 ## Sorting
 |  |
