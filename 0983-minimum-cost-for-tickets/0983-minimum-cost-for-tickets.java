@@ -1,24 +1,45 @@
 class Solution {
-    public int mincostTickets(int[] days, int[] costs) {
-        int n = days.length;
-        int[] dp = new int[n];
-        for (int i = n - 1; i >= 0; i--) {
-            int curr = Integer.MAX_VALUE;
-            // 1 day pass
-            curr = Math.min(curr, costs[0] + (i < n - 1 ? dp[i + 1] : 0));
-            
-            // 7 day pass
-            int k = i;
-            while (k < n && days[k] < days[i] + 7) k++;            
-            curr = Math.min(curr, costs[1] + (k < n ? dp[k] : 0));
-            
-            // 30 day pass
-            k = i;
-            while (k < n && days[k] < days[i] + 30) k++;            
-            curr = Math.min(curr, costs[2] + (k < n ? dp[k] : 0));
+    /**
+        days = [1,4,6,7,8,20], costs = [2,7,15]
 
-            dp[i] = curr;
+        [1] 2 3 [4] 5 [6] [7] [8] 9 10.... [20]......365
+
+        days[i]:
+            buy 1day, 7day, 30day pass
+        
+        return min(1, 7, 30)
+
+
+     */
+    public int mincostTickets(int[] days, int[] costs) {
+        int[] dp = new int[days.length];
+        Arrays.fill(dp, -1);
+        return dfs(days, 0, costs, dp);
+    }
+
+    private int dfs(int[] days, int i, int[] costs, int[] dp) {
+        if (i >= days.length) 
+            return 0;
+
+        if (dp[i] != -1) return dp[i];
+        
+        //1 day pass
+        int _1DayPass = costs[0] + dfs(days, i + 1, costs, dp);
+
+        //7 day pass
+        int d = i;
+        while (d < days.length && days[d] < days[i] + 7) {
+            d++;
         }
-        return dp[0];
+        int _7DayPass = costs[1] + dfs(days, d, costs, dp);
+
+        //30 day pass
+        d = i;
+        while (d < days.length && days[d] < days[i] + 30) {
+            d++;
+        }
+        int _30DayPass = costs[2] + dfs(days, d, costs, dp);
+
+        return dp[i] = Math.min(_1DayPass, Math.min(_7DayPass, _30DayPass));
     }
 }
