@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0075-sort-colors) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0072-edit-distance) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -1507,4 +1510,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0300-longest-increasing-subsequence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
