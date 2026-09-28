@@ -1,18 +1,29 @@
 class Solution {
+    /**
+    
+        ["eat","tea","tan","ate","nat","bat"]
+                            i 
+        
+         aet: eat, tea, ate
+         ant: tan
+
+    
+     */
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String, ArrayList<String>> sortedWordMap = new HashMap<>();
-        for (String s : strs) {
-            int[] freq = new int[26];
-            for (char ch : s.toCharArray()) freq [ch - 'a']++;
-            StringBuilder sb = new StringBuilder();
-            for (int f : freq) sb.append(f).append('#');
-            String sorted = sb.toString();
-            sortedWordMap.putIfAbsent(sorted, new ArrayList<String>());
-            sortedWordMap.get(sorted).add(s);
+        Map<String, List<String>> anagramsMap = new HashMap<>();
+
+        for (String s : strs) {            
+            char[] charArr = s.toCharArray();
+            Arrays.sort(charArr);
+            String sorted = new String(charArr);
+            if (!anagramsMap.containsKey(sorted)) {
+                anagramsMap.put(sorted, new ArrayList<>());
+            }
+            anagramsMap.get(sorted).add(s);
         }
         List<List<String>> res = new ArrayList<>();
-        for (ArrayList<String> group : sortedWordMap.values()) {
-            res.add(group);
+        for (Map.Entry<String, List<String>> entry : anagramsMap.entrySet()) {
+            res.add(entry.getValue());
         }
         return res;
     }
