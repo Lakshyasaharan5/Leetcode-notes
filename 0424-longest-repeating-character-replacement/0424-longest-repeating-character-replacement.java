@@ -1,21 +1,45 @@
 class Solution {
+    /**
+        "AABABBA", k = 1
+         -----
+
+         AAAABBBBB     k=2
+          i
+               j 
+         A:3
+         B:3
+         C:
+
+         
+         while (j - i + 1 - getMax(freqMap) > k)
+            i++
+        res = max(j - i + 1 - getMax(freqMap))
+
+
+     */
     public int characterReplacement(String s, int k) {
-        int l = 0, r = 0;
-        int longest = 0;
-        int[] freq = new int[26];
-        int maxFreq = 0, chars = 0;
-        while (r < s.length()) {
-            freq[s.charAt(r) - 'A']++;
-            chars++;
-            for (int i = 0; i < 26; i++) maxFreq = Math.max(maxFreq, freq[i]);
-            while (chars - maxFreq > k) {                
-                freq[s.charAt(l++) - 'A']--;
-                chars--;                
-                for (int i = 0; i < 26; i++) maxFreq = Math.max(maxFreq, freq[i]);
+        int i = 0, j = 0;
+        Map<Character, Integer> freq = new HashMap<>();
+        int res = Integer.MIN_VALUE;
+        while (j < s.length()) {
+            char curr = s.charAt(j);
+            freq.put(curr, freq.getOrDefault(curr, 0) + 1);
+            while (j - i + 1 - getMax(freq) > k) {
+                char prev = s.charAt(i);
+                freq.put(prev, freq.get(prev) - 1);
+                i++;
             }
-            longest = Math.max(longest, r - l + 1);
-            r++;
+            res = Math.max(res, j - i + 1);
+            j++;
         }
-        return longest;
+        return res;
+    }
+
+    private int getMax(Map<Character, Integer> freq) {
+        int maxFreq = 0;
+        for (int value : freq.values()) {
+            maxFreq = Math.max(maxFreq, value);
+        }
+        return maxFreq;
     }
 }
