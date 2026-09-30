@@ -9,36 +9,63 @@
  * }
  */
 class Solution {
+    /**
+        1-2-3
+          s
+            f
+        reach the half
+        while(f, f.next, f.next.next)
+
+        reverse the second half
+
+        merge recursively
+
+      <-1 2->3
+      p c  n
+
+
+        1- 4-2 -> 3
+             f    fn
+        4    5
+             s    sn
+
+        1-4-2-5-3
+                f
+        5
+          s
+     */
     public void reorderList(ListNode head) {
-        // reach the middle using slow and fast
-        ListNode slow=head, fast=head;
-        while(fast!=null && fast.next!=null){
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode ptr_to_second_half = null;
-        if(fast == null){ // even length
-            ptr_to_second_half = slow;
-        }else{
-            ptr_to_second_half = slow.next;
-        }
+        ListNode second = slow.next;
+        slow.next = null;
 
-        // put the right half into stack
-        Stack<ListNode> stack = new Stack<>();
-        while(ptr_to_second_half!=null){
-            stack.push(ptr_to_second_half);
-            ptr_to_second_half = ptr_to_second_half.next;
+        ListNode prev = null, curr = second;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+        second = prev;
 
+        ListNode first = head;
 
-        // merge both the halves
-        ListNode tmp = head;
-        while(!stack.empty()){
-            ListNode top = stack.pop();
-            top.next = head.next;
-            head.next = top;
-            head = top.next;
+        mergeIteratively(first, second);
+        
+    }
+
+    private void mergeIteratively(ListNode f, ListNode s) {
+        while (f != null && s != null) {
+            ListNode fn = f.next;
+            ListNode sn = s.next;
+            f.next = s;
+            s.next = fn;
+            f = fn;
+            s = sn;
         }
-        head.next = null;
     }
 }
