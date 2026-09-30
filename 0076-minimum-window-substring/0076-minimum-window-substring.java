@@ -1,37 +1,50 @@
 class Solution {
+    /**
+        s = "ADOBECODEBANC", t = "ABC"
+             i
+                 j
+
+            freq_s = A:5,B:1,C:1
+            freq_t = A:1,B:1,C:1
+
+            expand
+            shrink until valid:
+                update res
+     */
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) return "";
-        HashMap<Character, Integer> freq = new HashMap<>();
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            freq.put(ch, freq.getOrDefault(ch, 0) + 1);
+        Map<Character, Integer> freq_s = new HashMap<>();
+        Map<Character, Integer> freq_t = new HashMap<>();
+
+        for (char ch : t.toCharArray()) {
+            freq_t.put(ch, freq_t.getOrDefault(ch, 0) + 1);
+            freq_s.put(ch, 0);
         }
-        int min_l = 0, min_r = 0;
-        int cnt = t.length();
-        int l = 0, r = 0;
-        int shortest = Integer.MAX_VALUE;
-        while (r < s.length()) {
-            char ch = s.charAt(r);
-            if (freq.containsKey(ch)) {
-                freq.put(ch, freq.get(ch) - 1);
-                if (freq.get(ch) >= 0) cnt--;
-            }
-            while (cnt == 0) {                
-                if (r - l + 1 < shortest) {
-                    shortest = r - l + 1;
-                    min_l = l;
-                    min_r = r;
+
+        int i = 0, j = 0;
+        int minWindow = Integer.MAX_VALUE;
+        String res = "";
+        while (j < s.length()) {
+            char curr = s.charAt(j);
+            freq_s.put(curr, freq_s.getOrDefault(curr, 0) + 1);
+            while (isValid(freq_s, freq_t)) {
+                if (j - i + 1 < minWindow) {
+                    minWindow = j - i + 1;
+                    res = s.substring(i, j + 1);
                 }
-                if (freq.containsKey(s.charAt(l))) {
-                    freq.put(s.charAt(l), freq.get(s.charAt(l)) + 1);
-                    if (freq.get(s.charAt(l)) > 0) cnt++;                    
-                }
-                l++;
+                freq_s.put(s.charAt(i), freq_s.get(s.charAt(i)) - 1);
+                i++;
             }
-            r++;
+            j++;
         }
-        
-        if (shortest == Integer.MAX_VALUE) return "";
-        return s.substring(min_l, min_r + 1);
+        return res;
+    }
+
+    private boolean isValid(Map<Character, Integer> freq_s, Map<Character, Integer> freq_t) {
+        for (char key : freq_t.keySet()) {
+            if (freq_s.get(key) < freq_t.get(key)) {
+                return false;
+            }
+        }
+        return true;
     }
 }
