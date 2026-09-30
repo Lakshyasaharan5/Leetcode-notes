@@ -20,9 +20,10 @@ class Solution {
         boolean left = isValidBST(root.left);
         boolean curr = true;
         if(prev!=null)
-            curr = root.val > prev;
+            if (root.val <= prev) return false;
         prev = root.val;
         boolean right = isValidBST(root.right);
-        return curr && right && left;
+        if (!left || !right) return false;
+        return true;
     }
 }
