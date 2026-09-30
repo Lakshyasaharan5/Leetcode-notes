@@ -1,19 +1,34 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
  * }
  */
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        int min = Math.min(p.val, q.val);
-        int max = Math.max(p.val, q.val);
-        while (root.val < min || root.val > max)
-            root = root.val < min ? root.right : root.left;
-        return root;
+        TreeNode curr = root;
+        TreeNode l = null, r = null;
+        if (p.val > q.val) {
+            l = q;
+            r = p;
+        } else {
+            l = p;
+            r = q;
+        }
+        while (curr != null) {
+            if (l.val <= curr.val && curr.val <= r.val) {
+                return curr;
+            }
+            if (l.val < curr.val && r.val < curr.val) {
+                curr = curr.left;
+            } else {
+                curr = curr.right;
+            }
+        }
+        return null;
     }
 }
