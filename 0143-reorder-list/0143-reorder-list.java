@@ -54,8 +54,28 @@ class Solution {
 
         ListNode first = head;
 
-        mergeIteratively(first, second);
-        
+        // mergeIteratively(first, second);
+        head = mergeRecursively(first, second);
+    }
+
+    /**
+        1
+        f
+        4
+        s
+
+        f.next = s
+        s.next = rec(f.next, s.next)
+        return f
+
+     */
+    private ListNode mergeRecursively(ListNode f, ListNode s) {
+        if (f == null) return s;
+        if (s == null) return f;
+        ListNode fn = f.next;
+        f.next = s;
+        s.next = mergeRecursively(fn, s.next);
+        return f;
     }
 
     private void mergeIteratively(ListNode f, ListNode s) {
