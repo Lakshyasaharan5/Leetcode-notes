@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0394-decode-string) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0307-range-sum-query-mutable) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0543-diameter-of-binary-tree) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0322-coin-change) |
@@ -1043,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0543-diameter-of-binary-tree) |
