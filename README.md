@@ -1500,10 +1500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dijkstra's Algorithm
 |  |
