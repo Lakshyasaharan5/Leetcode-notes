@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2709-greatest-common-divisor-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/4084-maximize-sum-of-squares-of-digits) |
