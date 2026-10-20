@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1992-find-all-groups-of-farmland](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1992-find-all-groups-of-farmland) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2090-k-radius-subarray-averages) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2560-house-robber-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2560-house-robber-iv) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2285-maximum-total-importance-of-roads) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2491-divide-players-into-teams-of-equal-skill) |
