@@ -15,26 +15,29 @@
  */
 class Solution {
     /**
-        left
-        node
-        right
-    
-     */
-    int globalK = 0;
-    int res = -1;
-    public int kthSmallest(TreeNode root, int k) {
-        dfs(root, k);
-        return res;
-    }
+          left
+          node
+          right
 
-    private void dfs(TreeNode root, int k) {
-        if (root == null || res != -1) return;
-        dfs(root.left, k);
-        globalK += 1;
-        if (globalK == k) {
-            res = root.val;
-            return;
+          st = [5, 3, 2, 1]  
+
+          keep going left
+          pop, 
+          root = right
+          repeat
+     */
+    public int kthSmallest(TreeNode root, int k) {
+        Stack<TreeNode> st = new Stack<>();
+        while (root != null || !st.isEmpty()) {
+            while (root != null) {
+                st.push(root);
+                root = root.left;
+            }
+            TreeNode curr = st.pop();
+            k--;
+            if (k == 0) return curr.val;
+            root = curr.right;
         }
-        dfs(root.right, k);
+        return 0;
     }
 }
