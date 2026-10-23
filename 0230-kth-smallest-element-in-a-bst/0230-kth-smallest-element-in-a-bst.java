@@ -15,28 +15,50 @@
  */
 class Solution {
     /**
-          left
-          node
-          right
+        Morris Traversal
 
-          st = [5, 3, 2, 1]  
+                3 
+             1      4 
+               2
 
-          keep going left
-          pop, 
-          root = right
-          repeat
+          curr = 1
+            predecessor = go left and go extreme right
+            if pred == null
+                curr = curr.right
+            else
+                if pred.next == curr
+                    pred.next = null
+                    curr = curr.right
+                else
+                    pred.next = curr
+                    curr = curr.left
+            
+
+          inorder -> 1 3 4 5 6
      */
     public int kthSmallest(TreeNode root, int k) {
-        Stack<TreeNode> st = new Stack<>();
-        while (root != null || !st.isEmpty()) {
-            while (root != null) {
-                st.push(root);
-                root = root.left;
+        TreeNode curr = root;
+        TreeNode pred = null;
+        while (curr != null) {
+            pred = curr.left;
+            while (pred != null && pred.right != null && pred.right != curr) {
+                pred = pred.right;
             }
-            TreeNode curr = st.pop();
-            k--;
-            if (k == 0) return curr.val;
-            root = curr.right;
+            if (pred == null) {
+                k--;
+                if (k == 0) return curr.val;
+                curr = curr.right;
+            } else {
+                if (pred.right == curr) {
+                    k--;
+                    if (k == 0) return curr.val;
+                    pred.right = null;                    
+                    curr = curr.right;
+                } else {
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+            }
         }
         return 0;
     }
