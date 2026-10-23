@@ -1,22 +1,30 @@
 class Solution {
+    /**
+            1 2 3         target = 3
+            1,2  2,1
+         1,1     
+      1,0  
+
+      Time: O(2^n)
+      Space: O(target/min(candidates))
+
+     */
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        Arrays.sort(candidates);
         List<List<Integer>> res = new ArrayList<>();
-        backtrack(candidates, target, 0, 0, new ArrayList<>(), res);
+        dfs(candidates, target, 0, new ArrayList<>(), res);
         return res;
     }
 
-    private void backtrack(int[] candidates, int target, int start, int sum, List<Integer> curr, List<List<Integer>> res) {
-        if (sum == target) {
+    private void dfs(int[] candidates, int target, int start, List<Integer> curr, List<List<Integer>> res) {
+        if (target == 0) {
             res.add(new ArrayList<>(curr));
             return;
         }
+        if (target < 0) return;
         for (int i = start; i < candidates.length; i++) {
-            if (sum + candidates[i] > target) break;
             curr.add(candidates[i]);
-            backtrack(candidates, target, i, sum + candidates[i], curr, res);
+            dfs(candidates, target - candidates[i], i, curr, res);
             curr.remove(curr.size() - 1);
         }
     }
-
 }
