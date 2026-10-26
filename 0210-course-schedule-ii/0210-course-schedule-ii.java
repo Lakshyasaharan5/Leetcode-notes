@@ -1,42 +1,48 @@
 class Solution {
+    /**
+        0--->1<--->2
+                \-->3
+        
+        q = []
+        indegree [0 1 1 1]
+                    0 1 2 3
+        
+        res = [0]
+    */
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         Map<Integer, List<Integer>> graph = new HashMap<>();
-        int[] indegree = new int[numCourses];        
-        for (int[] edge : prerequisites) {
-            // [a,b] b->a
-            graph.computeIfAbsent(edge[1], k -> new ArrayList<>()).add(edge[0]);
-            indegree[edge[0]]++;
-        }
-        Queue<Integer> que = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) 
-                que.offer(i);
+            graph.put(i, new ArrayList<>());
         }
-        List<Integer> res = new ArrayList<>();
-        while (!que.isEmpty()) {
-            int front = que.poll();
-            res.add(front);
-            if (!graph.containsKey(front)) continue;
-            for (int nb : graph.get(front)) {
-                indegree[nb]--;
-                if (indegree[nb] == 0)
-                    que.offer(nb);
+        int[] indegree = new int[numCourses];
+        for (int[] p : prerequisites) { // [a,b] b->a
+            graph.get(p[1]).add(p[0]);
+            indegree[p[0]]++;
+        }
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                queue.offer(i);
             }
         }
-        if (res.size() < numCourses) return new int[]{};
-        int[] resArray = new int[numCourses];
-        for (int i = 0; i < numCourses; i++)
-            resArray[i] = res.get(i);
-        return resArray;
-        /**
-            numCourses = 4, 
-            [[1,0],[2,0],[3,1],[3,2]]
-            0->1<->2
-                 /^
-                3 
-            que = []     res = [0,3]
-            indegree = [0 1 1 0]
-                        0 1 2 3
-         */
+        List<Integer> resList = new ArrayList<>();
+        while (!queue.isEmpty()) {
+            int curr = queue.poll();
+            resList.add(curr);
+            for (int nb : graph.get(curr)) {
+                indegree[nb]--;
+                if (indegree[nb] == 0) {
+                    queue.offer(nb);
+                }
+            }
+        }
+        if (resList.size() < numCourses)
+            return new int[]{};
+        
+        int[] resArr = new int[numCourses];
+        for (int i = 0; i < numCourses; i++) {
+            resArr[i] = resList.get(i);
+        }
+        return resArr;
     }
 }
