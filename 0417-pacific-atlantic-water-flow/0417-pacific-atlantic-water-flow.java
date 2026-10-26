@@ -1,50 +1,78 @@
 class Solution {
-    private static final int[][] DIRECTIONS = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
+    /**
+        heights = [
 
+        [1,2,2,3,5],
+        [3,2,3,4,4],
+        [2,4,5,3,1],
+        [6,7,1,4,5],
+        [5,1,1,2,4]]
+
+        [1,1,1,1,3],
+        [1,1,1,3,3],
+        [1,1,3,2,2],
+        [3,3,2,2,2],
+        [3,2,2,2,2]]
+
+        pacific -> (0,c), (r,0)
+        atlantic -> (m,c), (r,n)
+
+
+
+
+     */
+    private static final int[][] DIR = {{0,1},{1,0},{-1,0},{0,-1}};
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        int ROWS = heights.length, COLS = heights[0].length;
-
-        // pacific side
-        boolean[][] pacificVisited = new boolean[ROWS][COLS];
-        for (int col = 0; col < COLS; col++)
-            dfs(heights, 0, col, pacificVisited, heights[0][col]);
-        for (int row = 0; row < ROWS; row++)
-            dfs(heights, row, 0, pacificVisited, heights[row][0]);
-
-        // atlantic side
-        boolean[][] atlanticVisited = new boolean[ROWS][COLS];
-        for (int col = 0; col < COLS; col++)
-            dfs(heights, ROWS - 1, col, atlanticVisited, heights[ROWS - 1][col]);
-        for (int row = 0; row < ROWS; row++)
-            dfs(heights, row, COLS - 1, atlanticVisited, heights[row][COLS - 1]);
-
-        // check common nodes
-        List<List<Integer>> res = new ArrayList<>();
-        for (int r = 0; r < ROWS; r++) {
-            for (int c = 0; c < COLS; c++) {
-                if (pacificVisited[r][c] && atlanticVisited[r][c]){
-                    List<Integer> commonPair = new ArrayList<>();
-                    commonPair.add(r);
-                    commonPair.add(c);
-                    res.add(commonPair);
-                }
+        int m = heights.length, n = heights[0].length;
+        
+        // pacific sides
+        int[][] pacific = new int[m][n];
+        for (int c = 0; c < n; c++) {
+            if (pacific[0][c] == 0) {
+                dfs(heights, pacific, 0, c);
             }
         }
+        for (int r = 0; r < m; r++) {
+            if (pacific[r][0] == 0) {
+                dfs(heights, pacific, r, 0);
+            }
+        }
+
+        // atlantic sides
+        int[][] atlantic = new int[m][n];
+        for (int c = 0; c < n; c++) {
+            if (atlantic[m - 1][c] == 0) {
+                dfs(heights, atlantic, m - 1, c);
+            }
+        }
+        for (int r = 0; r < m; r++) {
+            if (atlantic[r][n - 1] == 0) {
+                dfs(heights, atlantic, r, n - 1);
+            }
+        }
+
+        List<List<Integer>> res = new ArrayList<>();
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
+                // System.out.print(atlantic[r][c] + " ");
+                if (pacific[r][c] == 1 && atlantic[r][c] == 1) {
+                    res.add(Arrays.asList(r, c));
+                }
+            }
+            System.out.println();
+        }
+        
         return res;
     }
 
-    public void dfs(int[][] heights, int row, int col, boolean[][] visited, int prevHeight) {
-        if (row < 0 || col < 0 ||
-                row >= heights.length || col >= heights[0].length ||
-                visited[row][col] ||
-                heights[row][col] < prevHeight) {
-            return;
-        }
-
-        visited[row][col] = true;
-
-        for (int[] dir : DIRECTIONS) {
-            dfs(heights, row + dir[0], col + dir[1], visited, heights[row][col]);
+    private void dfs(int[][] heights, int[][] dp, int r, int c) {
+        dp[r][c] = 1;
+        for (int[] d : DIR) {
+            int nr = r + d[0];
+            int nc = c + d[1];
+            if (nr >= 0 && nc >= 0 && nr < heights.length && nc < heights[0].length && dp[nr][nc] == 0 && heights[nr][nc] >= heights[r][c]) {
+                dfs(heights, dp, nr, nc);
+            }            
         }
     }
 }
