@@ -59,7 +59,7 @@ class Solution {
                     res.add(Arrays.asList(r, c));
                 }
             }
-            System.out.println();
+            // System.out.println();
         }
         
         return res;
