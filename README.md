@@ -1573,4 +1573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0124-binary-tree-maximum-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
