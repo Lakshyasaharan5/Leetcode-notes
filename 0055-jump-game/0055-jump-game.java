@@ -1,26 +1,30 @@
 class Solution {
+    /**
+            nums = [3,0,1,5,4]
+                    t f t t t
+                        i
+                    3
+                0    1    5
+                    5     4
+                    4
+     */
     public boolean canJump(int[] nums) {
-        int[] dp = new int[nums.length];
-        return solve(nums, 0, dp);
-    }
-
-    boolean solve(int[] nums, int start, int[] dp){
-        if (start >= nums.length - 1){
-            return true;
-        }
-        if (dp[start] != 0){
-            return dp[start] == 1 ? true : false;
-        }
-        if (nums[start] == 0){
-            return false;
-        }
-        for(int i=1; i<=nums[start]; i++){
-            if (solve(nums, start + i, dp) == true){
-                dp[start] = 1;
-                return true;
+        int N = nums.length;
+        boolean[] dp = new boolean[N];
+        dp[N - 1] = true;
+        for (int i = N - 2; i >= 0; i--) {
+            if (nums[i] == 0) {
+                continue;
+            }
+            for (int j = i + 1; j <= Math.min(N - 1, i + nums[i]); j++) {
+                if (dp[j]) {
+                    dp[i] = true;
+                    break;
+                }
             }
         }
-        dp[start] = -1;
-        return false;
+        return dp[0];
     }
+
+    
 }
