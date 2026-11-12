@@ -1594,4 +1594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0051-n-queens) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
