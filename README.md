@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
+| [1603-design-parking-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1603-design-parking-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1189-maximum-number-of-balloons) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1603-design-parking-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1603-design-parking-system) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0946-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1184-car-pooling) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1222-queens-that-can-attack-the-king) |
+| [1603-design-parking-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1701-average-waiting-time) |
 | [2109-adding-spaces-to-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2161-partition-array-according-to-given-pivot) |
