@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0933-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -1477,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1656-design-an-ordered-stream) |
 ## Brainteaser
