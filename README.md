@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1079-letter-tile-possibilities](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1189-maximum-number-of-balloons) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1603-design-parking-system) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1428-jump-game-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1428-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1039,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1036-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1091,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0951-flip-equivalent-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0975-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
