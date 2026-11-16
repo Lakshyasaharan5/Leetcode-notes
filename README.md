@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1396-design-underground-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1396-design-underground-system) |
 | [1447-jump-game-iv](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1447-jump-game-iv) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1590-make-sum-divisible-by-p) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1396-design-underground-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1396-design-underground-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0933-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1023-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1396-design-underground-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1603-design-parking-system) |
