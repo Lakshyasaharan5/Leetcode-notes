@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0445-add-two-numbers-ii) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0933-number-of-recent-calls) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0543-diameter-of-binary-tree) |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0419-battleships-in-a-board) |
@@ -1353,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0341-flatten-nested-list-iterator) |
 ## Simulation
 |  |
 | ------- |
