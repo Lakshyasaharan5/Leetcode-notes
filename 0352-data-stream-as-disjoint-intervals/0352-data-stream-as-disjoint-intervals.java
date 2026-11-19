@@ -1,48 +1,65 @@
 class SummaryRanges {
     /**
-        [1, 4, 5, 7]
-                  i
-
-        start = 7
-        end = 7
-
-        [1] [4,5] [7]
-
+        1 2 3 4    6 7 8      10 11
+    
+        1 6 2 3 8 7 5 4
+    
+        1 : 3
+        6 : 6
+    
+        1,8   
+    
+        s = 4
+        e = 8  
+    
+    
+        check upper bound and update 
+        update all lower values with upper bound
+    
      */
-    private TreeSet<Integer> sorted;
-    public SummaryRanges() {
-        sorted = new TreeSet<>();
-    }
-    
-    public void addNum(int value) {
-        sorted.add(value);
-    }
-    
-    public int[][] getIntervals() {
-        if (sorted.size() == 0) return new int[][]{};
-        List<int[]> intervals = new ArrayList<>();
-        int start = sorted.first();
-        int end = sorted.first();
-        boolean skipFirst = true;
-        for (int v : sorted) {
-            if (skipFirst) {
-                skipFirst = false;
-                continue;
-            }
-            if (v == end + 1) {
-                end = v;
-            } else {
-                intervals.add(new int[]{start, end});
-                start = v;
-                end = v;
-            }
-        }
-        intervals.add(new int[]{start, end});
+    private TreeMap<Integer, Integer> map;
 
-        int[][] res = new int[intervals.size()][2];
-        for (int i = 0; i < intervals.size(); i++) {
-            res[i][0] = intervals.get(i)[0];
-            res[i][1] = intervals.get(i)[1];
+    public SummaryRanges() {
+        map = new TreeMap<>();
+    }
+
+    /**
+            1 : 3
+            4 : 8
+            
+     */
+    public void addNum(int value) {
+        Map.Entry<Integer, Integer> smaller = map.floorEntry(value);
+        Map.Entry<Integer, Integer> higher = map.ceilingEntry(value);
+
+        if (smaller != null && smaller.getValue() >= value) {
+            return;
+        }
+
+        int start = value;
+        int end = value;
+
+        if (higher != null && higher.getKey() == value + 1) {
+            end = higher.getValue();
+            map.remove(higher.getKey());
+        }
+
+        if (smaller != null && smaller.getValue() == value - 1) {
+            map.put(smaller.getKey(), end);
+            return;
+        }
+
+        map.put(start, end);
+
+    }
+
+    public int[][] getIntervals() {
+        int[][] res = new int[map.size()][2];
+        int index = 0;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            res[index][0] = entry.getKey();
+            res[index][1] = entry.getValue();
+            index++;
         }
         return res;
     }
