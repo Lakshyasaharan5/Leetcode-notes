@@ -1,18 +1,25 @@
 class Solution {
+    /**
+        nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
+                        l
+                                    r
+                zeros = 2
+                longest = 5
+     */
     public int longestOnes(int[] nums, int k) {
-        // 1,1,1,0,0,0,1,1,1,1,0
-        //       l
-        //           r
+        int zeros = 0;
         int l = 0, r = 0;
-        int res = 0;
+        int longest = 0;
+
         while (r < nums.length) {
-            if (nums[r] == 0) k--;
-            while (k < 0) {
-                if (nums[l++] == 0) k++;                
+            if (nums[r] == 0) zeros++;
+            while (zeros > k) {
+                if (nums[l] == 0) zeros--;
+                l++;
             }
-            res = Math.max(res, r-l+1);
+            longest = Math.max(longest, r - l + 1);
             r++;
         }
-        return res;
+        return longest;
     }
 }
