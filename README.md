@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3208-alternating-groups-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3208-alternating-groups-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bit Manipulation
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Backtracking
 |  |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -1031,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
