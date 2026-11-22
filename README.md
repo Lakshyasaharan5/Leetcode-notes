@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2001-jump-game-vii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2109-adding-spaces-to-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/2390-removing-stars-from-a-string) |
