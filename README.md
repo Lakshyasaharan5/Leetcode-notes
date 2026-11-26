@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0636-exclusive-time-of-functions) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0705-design-hashset) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0881-boats-to-save-people) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0907-koko-eating-bananas) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/1004-max-consecutive-ones-iii) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0355-design-twitter) |
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0743-network-delay-time) |
@@ -1185,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Lakshyasaharan5/Leetcode-notes/tree/master/0769-max-chunks-to-make-sorted) |
